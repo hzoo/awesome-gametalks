@@ -4,9 +4,6 @@
 
 For contributions, check out [contribution guidelines](CONTRIBUTING.md).
 
-- [s]: a sponsored talk.
-- [p]: a panel.
-
 ## 2014 ##
 - [Level Design in a Day: Decisions That Matter - Meaningful Choice in Game and Level Design](http://gdcvault.com/play/1020570/) by Matthias Worch (2K Games)
 - [Classic Game Postmortem: Robotron: 2084](http://gdcvault.com/play/1020591/) by Eugene Jarvis (Raw Thrills)
@@ -42,11 +39,11 @@ by Michael Abrash (Rad Game Tools)
 by Daniel Wright, Niklas Smedberg (Epic Games)
 
 #### Casual Games Summit ####
-- [p] [Designing for the Blue Ocean](http://gdcvault.com/play/1359/)
+- [Panel] [Designing for the Blue Ocean](http://gdcvault.com/play/1359/)
 by John Welch, Steve Meretzky, Brian Goble, Jason Kapalka, Margaret Wallace, Jane Jensen, Dan Prigg, Nick Fortugno, Ofer Leidner, Kenny Shea Dinkin, Todd Kerpelman
 
 #### Game Design ####
-- [p] [Burned by Friendly Fire: Game Critics Rant](http://gdcvault.com/play/1424/)
+- [Panel] [Burned by Friendly Fire: Game Critics Rant](http://gdcvault.com/play/1424/)
 by Eric Zimmerman, N\'Gai Croal, Heather Chaplin, Adam Sessler, Stephen Totilo, Leigh Alexander, Jason Della Rocca, Tom Chick
 - [Everything I Learned About Level Design I Learned from Disneyland](http://gdcvault.com/play/1305/)
 by Scott Rogers (THQ)
@@ -70,33 +67,33 @@ by Alexandre Amancio (Ubisoft Montreal)
 by John Smedley (Sony Online Entertainment)
 
 #### Graphics #####
-- [s] [Having Your Cake and Eating it Too: Increasing Game Realism, Scale and Reach](http://gdcvault.com/play/1431/)
+- [Sponsored] [Having Your Cake and Eating it Too: Increasing Game Realism, Scale and Reach](http://gdcvault.com/play/1431/)
 by Neal Robison, Jules Urbach (AMD)
-- [s] [Maximizing Multi-GPU Performance](http://gdcvault.com/play/1432/)
+- [Sponsored] [Maximizing Multi-GPU Performance](http://gdcvault.com/play/1432/)
 by Thomas Fortier (AMD)
-- [s] [CUDA and Multi-Core Gaming: Lessons from Gamebryo Floodgate](http://gdcvault.com/play/1445)
+- [Sponsored] [CUDA and Multi-Core Gaming: Lessons from Gamebryo Floodgate](http://gdcvault.com/play/1445)
 by Cem Cebenoyan, Dan Amerson (NVIDIA)
-- [s] [Intel's New Graphics Performance Analyzers](http://gdcvault.com/play/1752/)
+- [Sponsored] [Intel's New Graphics Performance Analyzers](http://gdcvault.com/play/1752/)
 by Cian Montgomery, Dave Shinsel, Aaron Davies (Intel)
-- [s] [Introducing GPU PerfStudio 2.0 - The Next Generation DX10.x GPU Performance Analysis Tool](http://gdcvault.com/play/1429/)
+- [Sponsored] [Introducing GPU PerfStudio 2.0 - The Next Generation DX10.x GPU Performance Analysis Tool](http://gdcvault.com/play/1429/)
 by Seth Sowerby, Gordon Selley (AMD)
-- [s] [Kaboom: Real-Time Multi-Threaded Fluid Simulation for Games](http://gdcvault.com/play/1414/)
+- [Sponsored] [Kaboom: Real-Time Multi-Threaded Fluid Simulation for Games](http://gdcvault.com/play/1414/)
 by Jeff Freeman (Intel)
-- [s] [Learn from Legends: Crane & Cartwright's Core Principles for Game Development Success - Devry Sponsored Session](http://gdcvault.com/play/1683/)
+- [Sponsored] [Learn from Legends: Crane & Cartwright's Core Principles for Game Development Success - Devry Sponsored Session](http://gdcvault.com/play/1683/)
 by David Crane, Steve Cartwright (Skyworks Technologies, Inc.)
-- [s] [NVIDIA APEX: From MIRROR'S EDGE to Pervasive Cinematic Destruction](http://gdcvault.com/play/1443/)
+- [Sponsored] [NVIDIA APEX: From MIRROR'S EDGE to Pervasive Cinematic Destruction](http://gdcvault.com/play/1443/)
 by Jean Pierre Bordes, Monier Maher (NVIDIA)
-- [s] [Optimizing Game Architectures with Intel Threading Building Blocks](http://gdcvault.com/play/1415/)
+- [Sponsored] [Optimizing Game Architectures with Intel Threading Building Blocks](http://gdcvault.com/play/1415/)
 by Brad Werth (Intel)
-- [s] [Platform-Independent Shader Development with mental mill: the Making of DEAD RISING 2 - NVIDIA](http://gdcvault.com/play/1447/)
+- [Sponsored] [Platform-Independent Shader Development with mental mill: the Making of DEAD RISING 2 - NVIDIA](http://gdcvault.com/play/1447/)
 by Laura Scholl, Izmeth Siddeek (Blue Castle Games)
-- [s] [The In and Out: Making Games Play Right with 3D Stereoscopic Technologies - Nvidia](http://gdcvault.com/play/1444/)
+- [Sponsored] [The In and Out: Making Games Play Right with 3D Stereoscopic Technologies - Nvidia](http://gdcvault.com/play/1444/)
 by Samuel Gateau (NVIDIA)
-- [s] [Threaded AI For The Win!](http://gdcvault.com/play/1416/)
+- [Sponsored] [Threaded AI For The Win!](http://gdcvault.com/play/1416/)
 by Orion Granatir (Intel)
-- [s] [Who Moved the Goalposts? The Rapidly Changing World of CPUs and Optimization](http://gdcvault.com/play/1413/)
+- [Sponsored] [Who Moved the Goalposts? The Rapidly Changing World of CPUs and Optimization](http://gdcvault.com/play/1413/)
 by Leigh Davies (Intel)
-- [s] [Your Game Needs Direct3D 11, So Get Started Now!](http://gdcvault.com/play/1430/)
+- [Sponsored] [Your Game Needs Direct3D 11, So Get Started Now!](http://gdcvault.com/play/1430/)
 by Bill Bilodeau (AMD)
 
 ## 2008 ##
@@ -108,7 +105,7 @@ by Ralph H. Baer, Allan Alcorn (IMMI)
 ## 2007 ##
 - [Bookworm Adventures Post-Mortem](http://gdcvault.com/play/1019226/)
 by Tysen Henderson, Jeff Weinstein (PopCap Games)
-- [p] [Building The Future Of Indie Games](http://gdcvault.com/play/1014825/)
+- [Panel] [Building The Future Of Indie Games](http://gdcvault.com/play/1014825/)
 Simon Carless, Mark Morris, Derek Yu, Greg Costikyan, Eric Zimmerman
 - [Design Principles for Casual Games](http://gdcvault.com/play/1019227/)
 by Nick Fortugno (Playmatics)
@@ -116,7 +113,7 @@ by Nick Fortugno (Playmatics)
 by Dave Grossman, Kevin Bruner (Telltale Games)
 - [Indie Prototyping, Braid, & Making Innovative Games](http://gdcvault.com/play/1014831/)
 by Jonathan Blow (Number None, Inc.)
-- [p] [Innovation in Indie Games](http://gdcvault.com/play/1014832/)
+- [Panel] [Innovation in Indie Games](http://gdcvault.com/play/1014832/)
 by Jonathan Mak, Jonathan Blow, Steve Swink, Jenova Chen, Kyle Gabler
 - [Making An Indie MMO](http://gdcvault.com/play/1014833/)
 by Daniel James
