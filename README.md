@@ -8,8 +8,10 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md).
 - [s]: a sponsored talk.
 - [p]: a panel.
 
-## 2010 ##
+## 2011 ##
+- [Truth in Game Design](http://www.gdcvault.com/play/1014982/) by Jonathan Blow (Number None, Inc.)
 
+## 2010 ##
 - [Design in Detail: Changing the Time Between Shots for the Sniper Rifle from 0.5 to 0.7 Seconds for Halo 3](http://www.gdcvault.com/play/1012211/) by Jaime Griesemer (Bungie)
 
 ## 2009 ##
