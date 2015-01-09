@@ -7,6 +7,12 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md).
 - [s]: a sponsored talk.
 - [p]: a panel.
 
+## 2014 ##
+- [Level Design in a Day: Decisions That Matter - Meaningful Choice in Game and Level Design](http://gdcvault.com/play/1020570/) by Matthias Worch (2K Games)
+- [Classic Game Postmortem: Robotron: 2084](http://gdcvault.com/play/1020591/) by Eugene Jarvis (Raw Thrills)
+- [Hearts and Minds](http://gdcvault.com/play/1020788/) by Frank Lantz (NYU Game Center)
+- [Keeping a Community for Five Years: The Story of Day[9]TV](http://gdcvault.com/play/1020558/) by Sean Plott (Artillery Games, Inc.)
+
 ## 2013 ##
 - [The Western Games That Conquered China](http://gdcvault.com/play/1017999) by Henry Fong (Yodo1)
 - [Obsessive-Compulsive Development: Retro/Grade Postmortem](http://www.gdcvault.com/play/1017963/) by Matt Gilgenbach (24 Caret Games)
