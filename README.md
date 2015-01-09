@@ -43,6 +43,24 @@ by Randy Smith (Tiger Style)
 by Jonathan Morin (Ubisoft)
 - [Taming Your Game Production Demons: the Offset approach](http://gdcvault.com/play/1417/)
 by Remi Arnaud, Ian Lewis (Intel)
+- [o] [10 Ways to Make Your Game Appeal to Teens](http://gdcvault.com/play/1011920/)
+by Joe Shochet, Mike Goslin (Hangout Industries, Mindspark Worlds)
+
+#### Visual Arts ####
+- [From Pipe Dream to Open World: The Terraforming of FAR CRY 2](http://gdcvault.com/play/1353/)
+by Alexandre Amancio (Ubisoft Montreal)
+
+#### Production ####
+- [Having Your Cake and Eating it Too: Increasing Game Realism, Scale and Reach](http://gdcvault.com/play/1431/)
+by Neal Robison, Jules Urbach (AMD)
+- [Maximizing Multi-GPU Performance](http://gdcvault.com/play/1432/)
+by Thomas Fortier (AMD)
+
+#### Business & Marketing ####
+- [o] [From Dragons and Daggers to Kart Racing, Cooking and Concerts...It's a Whole New MMO World](http://gdcvault.com/play/1011912/)
+by John Smedley (Sony Online Entertainment)
+
+### Graphics ####
 
 - [s] [CUDA and Multi-Core Gaming: Lessons from Gamebryo Floodgate](http://gdcvault.com/play/1445)
 by Cem Cebenoyan, Dan Amerson (NVIDIA)
@@ -68,24 +86,6 @@ by Orion Granatir (Intel)
 by Leigh Davies (Intel)
 - [s] [Your Game Needs Direct3D 11, So Get Started Now!](http://gdcvault.com/play/1430/)
 by Bill Bilodeau (AMD)
-
-#### Visual Arts ####
-- [From Pipe Dream to Open World: The Terraforming of FAR CRY 2](http://gdcvault.com/play/1353/)
-by Alexandre Amancio (Ubisoft Montreal)
-
-#### Production ####
-- [Having Your Cake and Eating it Too: Increasing Game Realism, Scale and Reach](http://gdcvault.com/play/1431/)
-by Neal Robison, Jules Urbach (AMD)
-- [Maximizing Multi-GPU Performance](http://gdcvault.com/play/1432/)
-by Thomas Fortier (AMD)
-
-#### Game Design ####
-- [o] [10 Ways to Make Your Game Appeal to Teens](http://gdcvault.com/play/1011920/)
-by Joe Shochet, Mike Goslin (Hangout Industries, Mindspark Worlds)
-
-#### Business & Marketing ####
-- [o] [From Dragons and Daggers to Kart Racing, Cooking and Concerts...It's a Whole New MMO World](http://gdcvault.com/play/1011912/)
-by John Smedley (Sony Online Entertainment)
 
 ## 2008 ##
 
