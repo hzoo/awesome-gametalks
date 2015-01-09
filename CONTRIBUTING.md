@@ -11,6 +11,5 @@
 by Satoru Iwata (Nintendo Co., Ltd.)
 
 ## Current Optional Codes
-- [o]: uses the old gdc player.
 - [s]: a sponsored talk.
 - [p]: a panel.
