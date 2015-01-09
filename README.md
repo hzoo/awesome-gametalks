@@ -54,12 +54,22 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md).
 - [2014] [This Time It's Different: Treasures and Traps in the Next Gen Transition](http://gdcvault.com/play/1019330/) by Don Daglow (Daglow Entertainment LLC)
 - [2014] [Using YouTube to Market Your Indie Game](http://gdcvault.com/play/1020499/) by Ryan Letourneau (Independent)
 
+## 2013 ##
+- [2013, Europe] [Crimewatch 2.0: Redesigning EVE Online's Policing System](http://gdcvault.com/play/1020382/) by Matthew Woodward (CCP Games)
+- [2013, Europe] [Ellie: Buddy AI in The Last of Us](http://gdcvault.com/play/1020364/) by Max Dyckhoff (Naughty Dog, Inc.)
+- [2013, Europe, Panel] [#1ReasonToBe](http://gdcvault.com/play/1020902/) by Annakaisa Kultima, Auriea Harvey, Brenda Romero, Zuraida Buter, Henrike aka Riker Lode, Siobhan Reddy, Leigh Alexander
+- [2013] [Accessibility: Lessons Learned from Designing for Gamers with Disabilities](http://gdcvault.com/play/1020377/) by Ian Hamilton (Ian Hamilton DC)
+- [2013] [Keeping a Community for Five Years: The Story of Day[9]TV](http://gdcvault.com/play/1020558/) by Sean Plott (Artillery Games, Inc.)
+- [2013, Panel] [How to Subversively Queer Your Work](http://gdcvault.com/play/1020372/) by Samantha Allen, Mattie Brice, Todd Harper, Christine Love, Zoe Quinn
+- [2013] [The Sound of Grand Theft Auto V](http://gdcvault.com/play/1020587/) by Alastair MacGregor (Rockstar North)
+
 ## 2012 ##
 - [The 5 Domains of Play: Applying Psychology's Big 5 Motivation Domains to Games](http://gdcvault.com/play/1015595/) by Jason VandenBerghe (Ubisoft)
 
 ## 2011 ##
 - [Truth in Game Design](http://www.gdcvault.com/play/1014982/) by Jonathan Blow (Number None, Inc.)
 - [Dynamics: The State of the Art](http://www.gdcvault.com/play/1014597/) by Clint Hocking (LucasArts)
+- [2011, Europe, Panel] [#1ReasonToBe](http://gdcvault.com/play/1020593/) by Leigh Alexander, Deirdra Kiai, Anna Kipnis, Colleen Macklin, Laralyn McWilliams, Brenda Romero, Lauren Scott
 
 ## 2010 ##
 - [Design in Detail: Changing the Time Between Shots for the Sniper Rifle from 0.5 to 0.7 Seconds for Halo 3](http://www.gdcvault.com/play/1012211/) by Jaime Griesemer (Bungie)
@@ -177,3 +187,9 @@ by Ronald Moore
 ## 2005 ##
 - [Heart of a Gamer](http://gdcvault.com/play/1014847/)
 by Satoru Iwata (Nintendo Co., Ltd.)
+
+## 2004 ##
+- [2004] [Animation Bootcamp: An Indie Approach to Procedural Animation](http://gdcvault.com/play/1020583/) by David Rosen (Wolfire Games)
+
+## 2003 ##
+- [2003] [Is Your Business Model Evil? The Moral Maze of the New Games Business](http://gdcvault.com/play/1020343/) by Ben Cousins (Scattered Entertainment/DeNA)
