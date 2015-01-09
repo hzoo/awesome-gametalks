@@ -4,7 +4,6 @@
 
 For contributions, check out [contribution guidelines](CONTRIBUTING.md).
 
-- [o]: uses the old gdc player.
 - [s]: a sponsored talk.
 - [p]: a panel.
 
@@ -53,7 +52,7 @@ by Randy Smith (Tiger Style)
 by Jonathan Morin (Ubisoft)
 - [Taming Your Game Production Demons: the Offset approach](http://gdcvault.com/play/1417/)
 by Remi Arnaud, Ian Lewis (Intel)
-- [o] [10 Ways to Make Your Game Appeal to Teens](http://gdcvault.com/play/1011920/)
+- [10 Ways to Make Your Game Appeal to Teens](http://gdcvault.com/play/1011920/)
 by Joe Shochet, Mike Goslin (Hangout Industries, Mindspark Worlds)
 
 #### Visual Arts ####
@@ -61,7 +60,7 @@ by Joe Shochet, Mike Goslin (Hangout Industries, Mindspark Worlds)
 by Alexandre Amancio (Ubisoft Montreal)
 
 #### Business & Marketing ####
-- [o] [From Dragons and Daggers to Kart Racing, Cooking and Concerts...It's a Whole New MMO World](http://gdcvault.com/play/1011912/)
+- [From Dragons and Daggers to Kart Racing, Cooking and Concerts...It's a Whole New MMO World](http://gdcvault.com/play/1011912/)
 by John Smedley (Sony Online Entertainment)
 
 #### Graphics #####
@@ -97,37 +96,37 @@ by Bill Bilodeau (AMD)
 ## 2008 ##
 
 #### Game Design ####
-- [o] [FABLE 2 - The Big Three Features Revealed](http://gdcvault.com/play/28/)
+- [FABLE 2 - The Big Three Features Revealed](http://gdcvault.com/play/28/)
 by Peter Molyneux (Lionhead Studios)
-- [o] [How to Create an Industry: The Making of the Brown Box and PONG](http://gdcvault.com/play/29/)
+- [How to Create an Industry: The Making of the Brown Box and PONG](http://gdcvault.com/play/29/)
 by Ralph H. Baer, Allan Alcorn (IMMI)
 
 ## 2007 ##
 
 #### Game Design ####
-- [o] [Bookworm Adventures Post-Mortem](http://gdcvault.com/play/1019226/)
+- [Bookworm Adventures Post-Mortem](http://gdcvault.com/play/1019226/)
 by Tysen Henderson, Jeff Weinstein (PopCap Games)
-- [o,p] [Building The Future Of Indie Games](http://gdcvault.com/play/1014825/)
+- [p] [Building The Future Of Indie Games](http://gdcvault.com/play/1014825/)
 Simon Carless, Mark Morris, Derek Yu, Greg Costikyan, Eric Zimmerman
-- [o] [Design Principles for Casual Games](http://gdcvault.com/play/1019227/)
+- [Design Principles for Casual Games](http://gdcvault.com/play/1019227/)
 by Nick Fortugno (Playmatics)
-- [o] [Episodic Gaming For Indies](http://gdcvault.com/play/1014830/)
+- [Episodic Gaming For Indies](http://gdcvault.com/play/1014830/)
 by Dave Grossman, Kevin Bruner (Telltale Games)
-- [o] [Indie Prototyping, Braid, & Making Innovative Games](http://gdcvault.com/play/1014831/)
+- [Indie Prototyping, Braid, & Making Innovative Games](http://gdcvault.com/play/1014831/)
 by Jonathan Blow (Number None, Inc.)
-- [o,p] [Innovation in Indie Games](http://gdcvault.com/play/1014832/)
+- [p] [Innovation in Indie Games](http://gdcvault.com/play/1014832/)
 by Jonathan Mak, Jonathan Blow, Steve Swink, Jenova Chen, Kyle Gabler
-- [o] [Making An Indie MMO](http://gdcvault.com/play/1014833/)
+- [Making An Indie MMO](http://gdcvault.com/play/1014833/)
 by Daniel James
-- [o] [Marketing For Indies](http://gdcvault.com/play/1014826)
+- [Marketing For Indies](http://gdcvault.com/play/1014826)
 by Russell Carroll (Reflexive Entertainment/Game Tunnel)
-- [o] [Our Journey From Narbacular Drop To Portal](http://gdcvault.com/play/1014822/)
+- [Our Journey From Narbacular Drop To Portal](http://gdcvault.com/play/1014822/)
 by Kim Swift (Airtight Games)
-- [o] [Physics Games Go Indie](http://gdcvault.com/play/1014827)
+- [Physics Games Go Indie](http://gdcvault.com/play/1014827)
 by Matthew Wegner (Flashbang Studios)
-- [o] [Postmortem: Gastronaut Studios' Small Arms](http://gdcvault.com/play/1014828/)
+- [Postmortem: Gastronaut Studios' Small Arms](http://gdcvault.com/play/1014828/)
 by Jacob Van Wingen (Gastronaut Studios LLC)
-- [o] [Postmortems: Game, Franchise & Company](http://gdcvault.com/play/1019228/)
+- [Postmortems: Game, Franchise & Company](http://gdcvault.com/play/1019228/)
 by Lee Crawford, Heidi Perry, Jim Greer (TwoFish, PlayFirst, Kongregate)
 
 ## 2006 ##
@@ -137,7 +136,7 @@ by Lee Crawford, Heidi Perry, Jim Greer (TwoFish, PlayFirst, Kongregate)
 by Will Wright
 
 #### Audio ####
-- [o] [Building a Better Battlestar](http://gdcvault.com/play/1016689/)
+- [Building a Better Battlestar](http://gdcvault.com/play/1016689/)
 by Ronald Moore
 
 ## 2005 ##
