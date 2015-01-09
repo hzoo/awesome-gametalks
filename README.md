@@ -60,18 +60,15 @@ by Joe Shochet, Mike Goslin (Hangout Industries, Mindspark Worlds)
 - [From Pipe Dream to Open World: The Terraforming of FAR CRY 2](http://gdcvault.com/play/1353/)
 by Alexandre Amancio (Ubisoft Montreal)
 
-#### Production ####
-- [Having Your Cake and Eating it Too: Increasing Game Realism, Scale and Reach](http://gdcvault.com/play/1431/)
-by Neal Robison, Jules Urbach (AMD)
-- [Maximizing Multi-GPU Performance](http://gdcvault.com/play/1432/)
-by Thomas Fortier (AMD)
-
 #### Business & Marketing ####
 - [o] [From Dragons and Daggers to Kart Racing, Cooking and Concerts...It's a Whole New MMO World](http://gdcvault.com/play/1011912/)
 by John Smedley (Sony Online Entertainment)
 
 #### Graphics #####
-
+- [s] [Having Your Cake and Eating it Too: Increasing Game Realism, Scale and Reach](http://gdcvault.com/play/1431/)
+by Neal Robison, Jules Urbach (AMD)
+- [s] [Maximizing Multi-GPU Performance](http://gdcvault.com/play/1432/)
+by Thomas Fortier (AMD)
 - [s] [CUDA and Multi-Core Gaming: Lessons from Gamebryo Floodgate](http://gdcvault.com/play/1445)
 by Cem Cebenoyan, Dan Amerson (NVIDIA)
 - [s] [Intel's New Graphics Performance Analyzers](http://gdcvault.com/play/1752/)
