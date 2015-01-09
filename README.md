@@ -94,16 +94,12 @@ by Leigh Davies (Intel)
 by Bill Bilodeau (AMD)
 
 ## 2008 ##
-
-#### Game Design ####
 - [FABLE 2 - The Big Three Features Revealed](http://gdcvault.com/play/28/)
 by Peter Molyneux (Lionhead Studios)
 - [How to Create an Industry: The Making of the Brown Box and PONG](http://gdcvault.com/play/29/)
 by Ralph H. Baer, Allan Alcorn (IMMI)
 
 ## 2007 ##
-
-#### Game Design ####
 - [Bookworm Adventures Post-Mortem](http://gdcvault.com/play/1019226/)
 by Tysen Henderson, Jeff Weinstein (PopCap Games)
 - [p] [Building The Future Of Indie Games](http://gdcvault.com/play/1014825/)
@@ -130,12 +126,8 @@ by Jacob Van Wingen (Gastronaut Studios LLC)
 by Lee Crawford, Heidi Perry, Jim Greer (TwoFish, PlayFirst, Kongregate)
 
 ## 2006 ##
-
-#### Game Design ####
 - [What's Next in Game Design?](http://gdcvault.com/play/1014845/)
 by Will Wright
-
-#### Audio ####
 - [Building a Better Battlestar](http://gdcvault.com/play/1016689/)
 by Ronald Moore
 
