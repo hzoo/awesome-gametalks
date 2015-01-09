@@ -5,8 +5,8 @@
 For contributions, check out [contribution guidelines](CONTRIBUTING.md).
 
 ## 2014 ##
-- [2014, Europe, Panel] [Curating Video Game Culture: The New Wave of Video Game Events](http://gdcvault.com/play/1020374/): Sarah Brin, Marie Foulston, Kunal Gupta, Jim Munroe, Wiley Wiggins
-- [2014, Europe, Panel] [Scapegoats No More: Improving the Public Image of Games (Presented by IGDA)](http://gdcvault.com/play/1018081/): Ian Bogost, Michael Capps, Daniel Greenberg
+- [2014, Europe] [Curating Video Game Culture: The New Wave of Video Game Events](http://gdcvault.com/play/1020374/): Sarah Brin, Marie Foulston, Kunal Gupta, Jim Munroe, Wiley Wiggins (Panel)
+- [2014, Europe] [Scapegoats No More: Improving the Public Image of Games (Presented by IGDA)](http://gdcvault.com/play/1018081/): Ian Bogost, Michael Capps, Daniel Greenberg (Panel)
 - [2014, Europe] [Antichamber: An Overnight Success, Seven Years in the Making](http://gdcvault.com/play/1020776/): Alexander Bruce (Antichamber)
 - [2014, Europe] [Designing Assassin's Creed III](http://gdcvault.com/play/1019317/): Steven Masters (Ubisoft Montreal)
 - [2014, Europe] [Don't Juice It or Lose It](http://gdcvault.com/play/1020861/): Folmer Kelly (Sets and Settings)
@@ -17,11 +17,11 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md).
 - [2014, Europe] [Super Time Force: Solving the Time Travel Paradox](http://gdcvault.com/play/1020766/): Kenneth Yeung (Capy Games)
 - [2014, Europe] [THERE IS NO ESCAPE: Designing Games for Maximum Real-life Impact (Presented by IGDA)](http://gdcvault.com/play/1017822/): Jane McGonigal (Social Chocolate)
 - [2014, Next] [Why Is Gone Home a Game?](http://gdcvault.com/play/1020376/): Steve Gaynor (The Fullbright Company)
-- [2014, Panel] [GDC Microtalks 2014: One Hour, Ten Speakers, a Panoply of Game Thinking!](http://gdcvault.com/play/1020391/): Emily Greer, Tadhg Kelly, Mitu Khandaker-Kokoris, Harry Lee, RichardLemarchand, Susan O'Connor, Lana Polansky, Elizabeth Sampat, Brian Sharp, Austin Wintory
-- [2014, Panel] [Indie Grassroots Marketing](http://gdcvault.com/play/1021468/): Zach Gage, Rami Ismail, Raph Koster, Adam Saltsman
-- [2014, Panel] [Indie Soapbox](http://gdcvault.com/play/1020582/): Leigh Alexander, Shawn Alexander Allen, Ryan Clark, Zach Gage, Kert Gartner, Nika Harper, Robin Hunicke, Ethan Levy,  Zoe Quinn, Lea Schonfelder
-- [2014, Panel] [Photorealism Through the Eyes of a FOX: The Core of Metal Gear Solid Ground Zeroes (Presented by Kojima Productions)](http://gdcvault.com/play/1018086/): Hideo Kojima, Hideki Sasaki, Masayuki Suzuki, Junji Tago
-- [2014, Panel] [The 2014 European Innovative Games Showcase](http://gdcvault.com/play/1020863/): Sylvia Ritter, Luke Spierewka, Eline Muijres, Sherida Halatoe, Geert Nellen, Andreas Zecher, James Brown, Lea Schoenfelder, Matthew Warshaw, Eliott Johnson, Leonard Ritter, Adriaan de Jongh, Michael Brown, Thijmen Bink, Jonatan Van Hove
+- [2014] [GDC Microtalks 2014: One Hour, Ten Speakers, a Panoply of Game Thinking!](http://gdcvault.com/play/1020391/): Emily Greer, Tadhg Kelly, Mitu Khandaker-Kokoris, Harry Lee, RichardLemarchand, Susan O'Connor, Lana Polansky, Elizabeth Sampat, Brian Sharp, Austin Wintory (Panel)
+- [2014] [Indie Grassroots Marketing](http://gdcvault.com/play/1021468/): Zach Gage, Rami Ismail, Raph Koster, Adam Saltsman (Panel)
+- [2014] [Indie Soapbox](http://gdcvault.com/play/1020582/): Leigh Alexander, Shawn Alexander Allen, Ryan Clark, Zach Gage, Kert Gartner, Nika Harper, Robin Hunicke, Ethan Levy,  Zoe Quinn, Lea Schonfelder (Panel)
+- [2014] [Photorealism Through the Eyes of a FOX: The Core of Metal Gear Solid Ground Zeroes (Presented by Kojima Productions)](http://gdcvault.com/play/1018086/): Hideo Kojima, Hideki Sasaki, Masayuki Suzuki, Junji Tago (Panel)
+- [2014] [The 2014 European Innovative Games Showcase](http://gdcvault.com/play/1020863/): Sylvia Ritter, Luke Spierewka, Eline Muijres, Sherida Halatoe, Geert Nellen, Andreas Zecher, James Brown, Lea Schoenfelder, Matthew Warshaw, Eliott Johnson, Leonard Ritter, Adriaan de Jongh, Michael Brown, Thijmen Bink, Jonatan Van Hove (Panel)
 - [2014] [A Great Disturbance in Development: The Dark Side of Early Access](http://gdcvault.com/play/1020874/): James Crowe (Bohemia Interactive)
 - [2014] [A Peek Behind the Shoji: Japan's Videogame Market Today](http://gdcvault.com/play/1019906/): Rio Hasegawa (Sony Computer Entertainment Japan)
 - [2014] [All You Need Is L.O.V.E. - Indie Couples in Game Development](http://gdcvault.com/play/1021420/): Matteo Pozzi, Claudia Molinari (We Are Muesli, We Are Museli)
@@ -57,10 +57,10 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md).
 ## 2013 ##
 - [2013, Europe] [Crimewatch 2.0: Redesigning EVE Online's Policing System](http://gdcvault.com/play/1020382/): Matthew Woodward (CCP Games)
 - [2013, Europe] [Ellie: Buddy AI in The Last of Us](http://gdcvault.com/play/1020364/): Max Dyckhoff (Naughty Dog, Inc.)
-- [2013, Europe, Panel] [#1ReasonToBe](http://gdcvault.com/play/1020902/): Annakaisa Kultima, Auriea Harvey, Brenda Romero, Zuraida Buter, Henrike aka Riker Lode, Siobhan Reddy, Leigh Alexander
+- [2013, Europe] [#1ReasonToBe](http://gdcvault.com/play/1020902/): Annakaisa Kultima, Auriea Harvey, Brenda Romero, Zuraida Buter, Henrike aka Riker Lode, Siobhan Reddy, Leigh Alexander (Panel)
 - [2013] [Accessibility: Lessons Learned from Designing for Gamers with Disabilities](http://gdcvault.com/play/1020377/): Ian Hamilton (Ian Hamilton DC)
 - [2013] [Keeping a Community for Five Years: The Story of Day[9]TV](http://gdcvault.com/play/1020558/): Sean Plott (Artillery Games, Inc.)
-- [2013, Panel] [How to Subversively Queer Your Work](http://gdcvault.com/play/1020372/): Samantha Allen, Mattie Brice, Todd Harper, Christine Love, Zoe Quinn
+- [2013] [How to Subversively Queer Your Work](http://gdcvault.com/play/1020372/): Samantha Allen, Mattie Brice, Todd Harper, Christine Love, Zoe Quinn (Panel)
 - [2013] [The Sound of Grand Theft Auto V](http://gdcvault.com/play/1020587/): Alastair MacGregor (Rockstar North)
 
 ## 2012 ##
@@ -69,7 +69,7 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md).
 ## 2011 ##
 - [Truth in Game Design](http://www.gdcvault.com/play/1014982/): Jonathan Blow (Number None, Inc.)
 - [Dynamics: The State of the Art](http://www.gdcvault.com/play/1014597/): Clint Hocking (LucasArts)
-- [2011, Europe, Panel] [#1ReasonToBe](http://gdcvault.com/play/1020593/): Leigh Alexander, Deirdra Kiai, Anna Kipnis, Colleen Macklin, Laralyn McWilliams, Brenda Romero, Lauren Scott
+- [2011, Europe] [#1ReasonToBe](http://gdcvault.com/play/1020593/): Leigh Alexander, Deirdra Kiai, Anna Kipnis, Colleen Macklin, Laralyn McWilliams, Brenda Romero, Lauren Scott (Panel)
 
 ## 2010 ##
 - [Design in Detail: Changing the Time Between Shots for the Sniper Rifle from 0.5 to 0.7 Seconds for Halo 3](http://www.gdcvault.com/play/1012211/): Jaime Griesemer (Bungie)
@@ -86,10 +86,10 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md).
 - [Rendering Techniques in GEARS OF WAR 2](http://gdcvault.com/play/1295/): Daniel Wright, Niklas Smedberg (Epic Games)
 
 #### Casual Games Summit ####
-- [Panel] [Designing for the Blue Ocean](http://gdcvault.com/play/1359/): John Welch, Steve Meretzky, Brian Goble, Jason Kapalka, Margaret Wallace, Jane Jensen, Dan Prigg, Nick Fortugno, Ofer Leidner, Kenny Shea Dinkin, Todd Kerpelman
+- [Designing for the Blue Ocean](http://gdcvault.com/play/1359/): John Welch, Steve Meretzky, Brian Goble, Jason Kapalka, Margaret Wallace, Jane Jensen, Dan Prigg, Nick Fortugno, Ofer Leidner, Kenny Shea Dinkin, Todd Kerpelman (Panel)
 
 #### Game Design ####
-- [Panel] [Burned by Friendly Fire: Game Critics Rant](http://gdcvault.com/play/1424/): Eric Zimmerman, N\'Gai Croal, Heather Chaplin, Adam Sessler, Stephen Totilo, Leigh Alexander, Jason Della Rocca, Tom Chick
+- [Burned by Friendly Fire: Game Critics Rant](http://gdcvault.com/play/1424/): Eric Zimmerman, N\'Gai Croal, Heather Chaplin, Adam Sessler, Stephen Totilo, Leigh Alexander, Jason Della Rocca, Tom Chick (Panel)
 - [Everything I Learned About Level Design I Learned from Disneyland](http://gdcvault.com/play/1305/): Scott Rogers (THQ)
 - [From COUNTER-STRIKE to LEFT 4 DEAD: Creating Replayable Cooperative Experiences](http://gdcvault.com/play/1422/): Michael Booth (Valve)
 - [Helping Your Players Feel Smart: Puzzles as User Interface](http://gdcvault.com/play/1333): Randy Smith (Tiger Style)
@@ -125,12 +125,12 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md).
 
 ## 2007 ##
 - [Bookworm Adventures Post-Mortem](http://gdcvault.com/play/1019226/): Tysen Henderson, Jeff Weinstein (PopCap Games)
-- [Panel] [Building The Future Of Indie Games](http://gdcvault.com/play/1014825/)
+- [Building The Future Of Indie Games](http://gdcvault.com/play/1014825/) (Panel)
 Simon Carless, Mark Morris, Derek Yu, Greg Costikyan, Eric Zimmerman
 - [Design Principles for Casual Games](http://gdcvault.com/play/1019227/): Nick Fortugno (Playmatics)
 - [Episodic Gaming For Indies](http://gdcvault.com/play/1014830/): Dave Grossman, Kevin Bruner (Telltale Games)
 - [Indie Prototyping, Braid, & Making Innovative Games](http://gdcvault.com/play/1014831/): Jonathan Blow (Number None, Inc.)
-- [Panel] [Innovation in Indie Games](http://gdcvault.com/play/1014832/): Jonathan Mak, Jonathan Blow, Steve Swink, Jenova Chen, Kyle Gabler
+- [Innovation in Indie Games](http://gdcvault.com/play/1014832/): Jonathan Mak, Jonathan Blow, Steve Swink, Jenova Chen, Kyle Gabler (Panel)
 - [Making An Indie MMO](http://gdcvault.com/play/1014833/): Daniel James
 - [Marketing For Indies](http://gdcvault.com/play/1014826): Russell Carroll (Reflexive Entertainment/Game Tunnel)
 - [Our Journey From Narbacular Drop To Portal](http://gdcvault.com/play/1014822/): Kim Swift (Airtight Games)
