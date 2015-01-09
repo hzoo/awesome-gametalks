@@ -5,14 +5,54 @@
 For contributions, check out [contribution guidelines](CONTRIBUTING.md).
 
 ## 2014 ##
-- [Level Design in a Day: Decisions That Matter - Meaningful Choice in Game and Level Design](http://gdcvault.com/play/1020570/) by Matthias Worch (2K Games)
-- [Classic Game Postmortem: Robotron: 2084](http://gdcvault.com/play/1020591/) by Eugene Jarvis (Raw Thrills)
-- [Hearts and Minds](http://gdcvault.com/play/1020788/) by Frank Lantz (NYU Game Center)
-- [Keeping a Community for Five Years: The Story of Day[9]TV](http://gdcvault.com/play/1020558/) by Sean Plott (Artillery Games, Inc.)
-
-## 2013 ##
-- [The Western Games That Conquered China](http://gdcvault.com/play/1017999) by Henry Fong (Yodo1)
-- [Obsessive-Compulsive Development: Retro/Grade Postmortem](http://www.gdcvault.com/play/1017963/) by Matt Gilgenbach (24 Caret Games)
+- [2014, Europe, Panel] [Curating Video Game Culture: The New Wave of Video Game Events](http://gdcvault.com/play/1020374/) by Sarah Brin, Marie Foulston, Kunal Gupta, Jim Munroe, Wiley Wiggins
+- [2014, Europe, Panel] [Scapegoats No More: Improving the Public Image of Games (Presented by IGDA)](http://gdcvault.com/play/1018081/) by Ian Bogost, Michael Capps, Daniel Greenberg
+- [2014, Europe] [Antichamber: An Overnight Success, Seven Years in the Making](http://gdcvault.com/play/1020776/) by Alexander Bruce (Antichamber)
+- [2014, Europe] [Designing Assassin's Creed III](http://gdcvault.com/play/1019317/) by Steven Masters (Ubisoft Montreal)
+- [2014, Europe] [Don't Juice It or Lose It](http://gdcvault.com/play/1020861/) by Folmer Kelly (Sets and Settings)
+- [2014, Europe] [Dynamics for Designers](http://gdcvault.com/play/1019938/) by Will Wright (Stupid Fun Club)
+- [2014, Europe] [Fewer Tifas or More Sephiroths? Male Sexualization in Games](http://gdcvault.com/play/1020520/) by Michelle Clough (Freelance)
+- [2014, Europe] [Modernizing Splinter Cell's Gunplay](http://gdcvault.com/play/1020354/) by James Everett (Ubisoft Toronto)
+- [2014, Europe] [SteamWorld Dig Postmortem: How to Fail and Still Succeed at Launching an Indie Sensation](http://gdcvault.com/play/1020909/) by Brjann Sigurgeirsson (Image & Form)
+- [2014, Europe] [Super Time Force: Solving the Time Travel Paradox](http://gdcvault.com/play/1020766/) by Kenneth Yeung (Capy Games)
+- [2014, Europe] [THERE IS NO ESCAPE: Designing Games for Maximum Real-life Impact (Presented by IGDA)](http://gdcvault.com/play/1017822/) by Jane McGonigal (Social Chocolate)
+- [2014, Next] [Why Is Gone Home a Game?](http://gdcvault.com/play/1020376/) by Steve Gaynor (The Fullbright Company)
+- [2014, Panel] [GDC Microtalks 2014: One Hour, Ten Speakers, a Panoply of Game Thinking!](http://gdcvault.com/play/1020391/) by Emily Greer, Tadhg Kelly, Mitu Khandaker-Kokoris, Harry Lee, RichardLemarchand, Susan O'Connor, Lana Polansky, Elizabeth Sampat, Brian Sharp, Austin Wintory
+- [2014, Panel] [Indie Grassroots Marketing](http://gdcvault.com/play/1021468/) by Zach Gage, Rami Ismail, Raph Koster, Adam Saltsman
+- [2014, Panel] [Indie Soapbox](http://gdcvault.com/play/1020582/) by Leigh Alexander, Shawn Alexander Allen, Ryan Clark, Zach Gage, Kert Gartner, Nika Harper, Robin Hunicke, Ethan Levy,  Zoe Quinn, Lea Schonfelder
+- [2014, Panel] [Photorealism Through the Eyes of a FOX: The Core of Metal Gear Solid Ground Zeroes (Presented by Kojima Productions)](http://gdcvault.com/play/1018086/) by Hideo Kojima, Hideki Sasaki, Masayuki Suzuki, Junji Tago
+- [2014, Panel] [The 2014 European Innovative Games Showcase](http://gdcvault.com/play/1020863/) by Sylvia Ritter, Luke Spierewka, Eline Muijres, Sherida Halatoe, Geert Nellen, Andreas Zecher, James Brown, Lea Schoenfelder, Matthew Warshaw, Eliott Johnson, Leonard Ritter, Adriaan de Jongh, Michael Brown, Thijmen Bink, Jonatan Van Hove
+- [2014] [A Great Disturbance in Development: The Dark Side of Early Access](http://gdcvault.com/play/1020874/) by James Crowe (Bohemia Interactive)
+- [2014] [A Peek Behind the Shoji: Japan's Videogame Market Today](http://gdcvault.com/play/1019906/) by Rio Hasegawa (Sony Computer Entertainment Japan)
+- [2014] [All You Need Is L.O.V.E. - Indie Couples in Game Development](http://gdcvault.com/play/1021420/) by Matteo Pozzi, Claudia Molinari (We Are Muesli, We Are Museli)
+- [2014] [Behind the Realm Reborn](http://gdcvault.com/play/1020797/) by Naoki Yoshida (Square Enix Co. Ltd.)
+- [2014] [Building Customizable Characters for Bungie's Destiny](http://gdcvault.com/play/1020412/) by Scott Shepherd (Bungie)
+- [2014] [Clash of Clones: The Importance of Standing Out](http://gdcvault.com/play/1020872/) by Fredrik Wester (Paradox Interactive)
+- [2014] [Classic Game Postmortem: Broken Sword](http://gdcvault.com/play/1020893/) by Charles Cecil (Revolution Software)
+- [2014] [Classic Game Postmortem: Robotron: 2084](http://gdcvault.com/play/1020591/) by Eugene Jarvis (Raw Thrills)
+- [2014] [Classic Game Postmortem: Zork](http://gdcvault.com/play/1020612/) by Dave Lebling (BAE Systems)
+- [2014] [Come Rain or Shine: Rain Postmortem (English translation)](http://gdcvault.com/play/1020810/) by Yuki Ikeda (Sony Computer Entertainment/Japan Studio)
+- [2014] [Creating BioShock Infinite's Elizabeth](http://gdcvault.com/play/1020545/) by Shawn Robertson (Irrational Games)
+- [2014] [Creatrilogy: Three Talks Exploring Indie Game Creativity](http://gdcvault.com/play/1020581/) by Pippin Barr, Tom Betts, David Kanaga (pippinbarr.com, Big Robot, Independent)
+- [2014] [Designing Monument Valley: Less Game, More Experience](http://gdcvault.com/play/1020878/) by Ken Wong (ustwo)
+- [2014] [Empathetic Games Are Here to Stay! What's Next?](http://gdcvault.com/play/1020598/) by Vander Caballero (Minority Media)
+- [2014] [Game a Week: How to Succeed, Fail and Learn](http://gdcvault.com/play/1020866/) by Adriel Wallick (MsMinotaur)
+- [2014] [Hearts and Minds](http://gdcvault.com/play/1020788/) by Frank Lantz (NYU Game Center)
+- [2014] [Indie Game Public Relations: 5 Years of Painful Lessons](http://gdcvault.com/play/1020365/) by Chris McQuinn (Drinkbox Studios)
+- [2014] [Is Publishing Dead?](http://gdcvault.com/play/1020417/) by Mitch Lasky (Benchmark)
+- [2014] [Keeping a Community for Five Years: The Story of Day[9]TV](http://gdcvault.com/play/1020558/) by Sean Plott (Artillery Games, Inc.)
+- [2014] [Killer Game Loops in Social Games](http://gdcvault.com/play/1014911/) by Henric Suuronen (NonStop Games)
+- [2014] [Killing the Games Industry [Abridged]](http://gdcvault.com/play/1020906/) by Ste Curran (Freelance)
+- [2014] [Level Design in a Day: Decisions That Matter - Meaningful Choice in Game and Level Design](http://gdcvault.com/play/1020570/) by Matthias Worch (2K Games)
+- [2014] [Puzzle and Dragons Postmortem](http://gdcvault.com/play/1020817/) by Kazuki Morishita (GungHo)
+- [2014] [SCALE and the Ethics of Kickstarter](http://gdcvault.com/play/1020613/) by Steve Swink (CubeHeart Games)
+- [2014] [The Art of Child of Light](http://gdcvault.com/play/1020561/) by Patrick Plourde (Ubisoft Montreal)
+- [2014] [The Art of Making Guacamelee! - From Folklore to Finish](http://gdcvault.com/play/1020419/) by Augusto Quijano (Drinkbox Studios)
+- [2014] [The Art of The Witness](http://gdcvault.com/play/1020552/) by Luis Antonio (Thekla Inc)
+- [2014] [The Dark Sorcerer and Beyond: Shooting, Directing and Filming Virtual Actors](http://gdcvault.com/play/1019347/) by David Cage (Quantic Dream)
+- [2014] [The Right Side of the Ocean: EA_Spouse Then and Now (Presented by IGDA)](http://gdcvault.com/play/1017824/) by Erin Hoffman (Philomath Games)
+- [2014] [This Time It's Different: Treasures and Traps in the Next Gen Transition](http://gdcvault.com/play/1019330/) by Don Daglow (Daglow Entertainment LLC)
+- [2014] [Using YouTube to Market Your Indie Game](http://gdcvault.com/play/1020499/) by Ryan Letourneau (Independent)
 
 ## 2012 ##
 - [The 5 Domains of Play: Applying Psychology's Big 5 Motivation Domains to Games](http://gdcvault.com/play/1015595/) by Jason VandenBerghe (Ubisoft)
