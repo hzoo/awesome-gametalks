@@ -60,7 +60,7 @@ by Thomas Fortier (AMD)
 - [o] [From Dragons and Daggers to Kart Racing, Cooking and Concerts...It's a Whole New MMO World](http://gdcvault.com/play/1011912/)
 by John Smedley (Sony Online Entertainment)
 
-### Graphics ####
+#### Graphics #####
 
 - [s] [CUDA and Multi-Core Gaming: Lessons from Gamebryo Floodgate](http://gdcvault.com/play/1445)
 by Cem Cebenoyan, Dan Amerson (NVIDIA)
