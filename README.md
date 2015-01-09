@@ -64,86 +64,86 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md).
 - [2013] [The Sound of Grand Theft Auto V](http://gdcvault.com/play/1020587/): Alastair MacGregor (Rockstar North)
 
 ## 2012 ##
-- [The 5 Domains of Play: Applying Psychology's Big 5 Motivation Domains to Games](http://gdcvault.com/play/1015595/): Jason VandenBerghe (Ubisoft)
+- [2012] [The 5 Domains of Play: Applying Psychology's Big 5 Motivation Domains to Games](http://gdcvault.com/play/1015595/): Jason VandenBerghe (Ubisoft)
 
 ## 2011 ##
-- [Truth in Game Design](http://www.gdcvault.com/play/1014982/): Jonathan Blow (Number None, Inc.)
-- [Dynamics: The State of the Art](http://www.gdcvault.com/play/1014597/): Clint Hocking (LucasArts)
 - [2011, Europe] [#1ReasonToBe](http://gdcvault.com/play/1020593/): Leigh Alexander, Deirdra Kiai, Anna Kipnis, Colleen Macklin, Laralyn McWilliams, Brenda Romero, Lauren Scott (Panel)
+- [2011] [Truth in Game Design](http://www.gdcvault.com/play/1014982/): Jonathan Blow (Number None, Inc.)
+- [2011] [Dynamics: The State of the Art](http://www.gdcvault.com/play/1014597/): Clint Hocking (LucasArts)
 
 ## 2010 ##
-- [Design in Detail: Changing the Time Between Shots for the Sniper Rifle from 0.5 to 0.7 Seconds for Halo 3](http://www.gdcvault.com/play/1012211/): Jaime Griesemer (Bungie)
+- [2010] [Design in Detail: Changing the Time Between Shots for the Sniper Rifle from 0.5 to 0.7 Seconds for Halo 3](http://www.gdcvault.com/play/1012211/): Jaime Griesemer (Bungie)
 
 ## 2009 ##
 
 #### AI Summit ####
-- [Beyond Behavior: An Introduction to Knowledge Representation](http://gdcvault.com/play/1267/): Damian Isla, Peter Gorniak (Moonshot Games, MIT Media Lab)
+- [2009] [Beyond Behavior: An Introduction to Knowledge Representation](http://gdcvault.com/play/1267/): Damian Isla, Peter Gorniak (Moonshot Games, MIT Media Lab)
 
 #### Programming ####
 
-- [HALO WARS: The Terrain of Next-Gen](http://gdcvault.com/play/1277/): Colt McAnlis (Blizzard)
-- [Rasterization on Larrabee: A First Look at the Larrabee New Instructions (LRBni) in Action](http://gdcvault.com/play/1402/): Michael Abrash (Rad Game Tools)
-- [Rendering Techniques in GEARS OF WAR 2](http://gdcvault.com/play/1295/): Daniel Wright, Niklas Smedberg (Epic Games)
+- [2009] [HALO WARS: The Terrain of Next-Gen](http://gdcvault.com/play/1277/): Colt McAnlis (Blizzard)
+- [2009] [Rasterization on Larrabee: A First Look at the Larrabee New Instructions (LRBni) in Action](http://gdcvault.com/play/1402/): Michael Abrash (Rad Game Tools)
+- [2009] [Rendering Techniques in GEARS OF WAR 2](http://gdcvault.com/play/1295/): Daniel Wright, Niklas Smedberg (Epic Games)
 
 #### Casual Games Summit ####
-- [Designing for the Blue Ocean](http://gdcvault.com/play/1359/): John Welch, Steve Meretzky, Brian Goble, Jason Kapalka, Margaret Wallace, Jane Jensen, Dan Prigg, Nick Fortugno, Ofer Leidner, Kenny Shea Dinkin, Todd Kerpelman (Panel)
+- [2009] [Designing for the Blue Ocean](http://gdcvault.com/play/1359/): John Welch, Steve Meretzky, Brian Goble, Jason Kapalka, Margaret Wallace, Jane Jensen, Dan Prigg, Nick Fortugno, Ofer Leidner, Kenny Shea Dinkin, Todd Kerpelman (Panel)
 
 #### Game Design ####
-- [Burned by Friendly Fire: Game Critics Rant](http://gdcvault.com/play/1424/): Eric Zimmerman, N\'Gai Croal, Heather Chaplin, Adam Sessler, Stephen Totilo, Leigh Alexander, Jason Della Rocca, Tom Chick (Panel)
-- [Everything I Learned About Level Design I Learned from Disneyland](http://gdcvault.com/play/1305/): Scott Rogers (THQ)
-- [From COUNTER-STRIKE to LEFT 4 DEAD: Creating Replayable Cooperative Experiences](http://gdcvault.com/play/1422/): Michael Booth (Valve)
-- [Helping Your Players Feel Smart: Puzzles as User Interface](http://gdcvault.com/play/1333): Randy Smith (Tiger Style)
-- [Player's Expression: The Level Design Structure Behind FAR CRY 2 and Beyond?](http://gdcvault.com/play/1304/): Jonathan Morin (Ubisoft)
-- [Taming Your Game Production Demons: the Offset approach](http://gdcvault.com/play/1417/): Remi Arnaud, Ian Lewis (Intel)
-- [10 Ways to Make Your Game Appeal to Teens](http://gdcvault.com/play/1011920/): Joe Shochet, Mike Goslin (Hangout Industries, Mindspark Worlds)
+- [2009] [Burned by Friendly Fire: Game Critics Rant](http://gdcvault.com/play/1424/): Eric Zimmerman, N\'Gai Croal, Heather Chaplin, Adam Sessler, Stephen Totilo, Leigh Alexander, Jason Della Rocca, Tom Chick (Panel)
+- [2009] [Everything I Learned About Level Design I Learned from Disneyland](http://gdcvault.com/play/1305/): Scott Rogers (THQ)
+- [2009] [From COUNTER-STRIKE to LEFT 4 DEAD: Creating Replayable Cooperative Experiences](http://gdcvault.com/play/1422/): Michael Booth (Valve)
+- [2009] [Helping Your Players Feel Smart: Puzzles as User Interface](http://gdcvault.com/play/1333): Randy Smith (Tiger Style)
+- [2009] [Player's Expression: The Level Design Structure Behind FAR CRY 2 and Beyond?](http://gdcvault.com/play/1304/): Jonathan Morin (Ubisoft)
+- [2009] [Taming Your Game Production Demons: the Offset approach](http://gdcvault.com/play/1417/): Remi Arnaud, Ian Lewis (Intel)
+- [2009] [10 Ways to Make Your Game Appeal to Teens](http://gdcvault.com/play/1011920/): Joe Shochet, Mike Goslin (Hangout Industries, Mindspark Worlds)
 
 #### Visual Arts ####
-- [From Pipe Dream to Open World: The Terraforming of FAR CRY 2](http://gdcvault.com/play/1353/): Alexandre Amancio (Ubisoft Montreal)
+- [2009] [From Pipe Dream to Open World: The Terraforming of FAR CRY 2](http://gdcvault.com/play/1353/): Alexandre Amancio (Ubisoft Montreal)
 
 #### Business & Marketing ####
-- [From Dragons and Daggers to Kart Racing, Cooking and Concerts...It's a Whole New MMO World](http://gdcvault.com/play/1011912/): John Smedley (Sony Online Entertainment)
+- [2009] [From Dragons and Daggers to Kart Racing, Cooking and Concerts...It's a Whole New MMO World](http://gdcvault.com/play/1011912/): John Smedley (Sony Online Entertainment)
 
 #### Graphics #####
-- [Sponsored] [Having Your Cake and Eating it Too: Increasing Game Realism, Scale and Reach](http://gdcvault.com/play/1431/): Neal Robison, Jules Urbach (AMD)
-- [Sponsored] [Maximizing Multi-GPU Performance](http://gdcvault.com/play/1432/): Thomas Fortier (AMD)
-- [Sponsored] [CUDA and Multi-Core Gaming: Lessons from Gamebryo Floodgate](http://gdcvault.com/play/1445): Cem Cebenoyan, Dan Amerson (NVIDIA)
-- [Sponsored] [Intel's New Graphics Performance Analyzers](http://gdcvault.com/play/1752/): Cian Montgomery, Dave Shinsel, Aaron Davies (Intel)
-- [Sponsored] [Introducing GPU PerfStudio 2.0 - The Next Generation DX10.x GPU Performance Analysis Tool](http://gdcvault.com/play/1429/): Seth Sowerby, Gordon Selley (AMD)
-- [Sponsored] [Kaboom: Real-Time Multi-Threaded Fluid Simulation for Games](http://gdcvault.com/play/1414/): Jeff Freeman (Intel)
-- [Sponsored] [Learn from Legends: Crane & Cartwright's Core Principles for Game Development Success - Devry Sponsored Session](http://gdcvault.com/play/1683/): David Crane, Steve Cartwright (Skyworks Technologies, Inc.)
-- [Sponsored] [NVIDIA APEX: From MIRROR'S EDGE to Pervasive Cinematic Destruction](http://gdcvault.com/play/1443/): Jean Pierre Bordes, Monier Maher (NVIDIA)
-- [Sponsored] [Optimizing Game Architectures with Intel Threading Building Blocks](http://gdcvault.com/play/1415/): Brad Werth (Intel)
-- [Sponsored] [Platform-Independent Shader Development with mental mill: the Making of DEAD RISING 2 - NVIDIA](http://gdcvault.com/play/1447/): Laura Scholl, Izmeth Siddeek (Blue Castle Games)
-- [Sponsored] [The In and Out: Making Games Play Right with 3D Stereoscopic Technologies - Nvidia](http://gdcvault.com/play/1444/): Samuel Gateau (NVIDIA)
-- [Sponsored] [Threaded AI For The Win!](http://gdcvault.com/play/1416/): Orion Granatir (Intel)
-- [Sponsored] [Who Moved the Goalposts? The Rapidly Changing World of CPUs and Optimization](http://gdcvault.com/play/1413/): Leigh Davies (Intel)
-- [Sponsored] [Your Game Needs Direct3D 11, So Get Started Now!](http://gdcvault.com/play/1430/): Bill Bilodeau (AMD)
+- [2009, Sponsored] [Having Your Cake and Eating it Too: Increasing Game Realism, Scale and Reach](http://gdcvault.com/play/1431/): Neal Robison, Jules Urbach (AMD)
+- [2009, Sponsored] [Maximizing Multi-GPU Performance](http://gdcvault.com/play/1432/): Thomas Fortier (AMD)
+- [2009, Sponsored] [CUDA and Multi-Core Gaming: Lessons from Gamebryo Floodgate](http://gdcvault.com/play/1445): Cem Cebenoyan, Dan Amerson (NVIDIA)
+- [2009, Sponsored] [Intel's New Graphics Performance Analyzers](http://gdcvault.com/play/1752/): Cian Montgomery, Dave Shinsel, Aaron Davies (Intel)
+- [2009, Sponsored] [Introducing GPU PerfStudio 2.0 - The Next Generation DX10.x GPU Performance Analysis Tool](http://gdcvault.com/play/1429/): Seth Sowerby, Gordon Selley (AMD)
+- [2009, Sponsored] [Kaboom: Real-Time Multi-Threaded Fluid Simulation for Games](http://gdcvault.com/play/1414/): Jeff Freeman (Intel)
+- [2009, Sponsored] [Learn from Legends: Crane & Cartwright's Core Principles for Game Development Success - Devry Sponsored Session](http://gdcvault.com/play/1683/): David Crane, Steve Cartwright (Skyworks Technologies, Inc.)
+- [2009, Sponsored] [NVIDIA APEX: From MIRROR'S EDGE to Pervasive Cinematic Destruction](http://gdcvault.com/play/1443/): Jean Pierre Bordes, Monier Maher (NVIDIA)
+- [2009, Sponsored] [Optimizing Game Architectures with Intel Threading Building Blocks](http://gdcvault.com/play/1415/): Brad Werth (Intel)
+- [2009, Sponsored] [Platform-Independent Shader Development with mental mill: the Making of DEAD RISING 2 - NVIDIA](http://gdcvault.com/play/1447/): Laura Scholl, Izmeth Siddeek (Blue Castle Games)
+- [2009, Sponsored] [The In and Out: Making Games Play Right with 3D Stereoscopic Technologies - Nvidia](http://gdcvault.com/play/1444/): Samuel Gateau (NVIDIA)
+- [2009, Sponsored] [Threaded AI For The Win!](http://gdcvault.com/play/1416/): Orion Granatir (Intel)
+- [2009, Sponsored] [Who Moved the Goalposts? The Rapidly Changing World of CPUs and Optimization](http://gdcvault.com/play/1413/): Leigh Davies (Intel)
+- [2009, Sponsored] [Your Game Needs Direct3D 11, So Get Started Now!](http://gdcvault.com/play/1430/): Bill Bilodeau (AMD)
 
 ## 2008 ##
-- [FABLE 2 - The Big Three Features Revealed](http://gdcvault.com/play/28/): Peter Molyneux (Lionhead Studios)
-- [How to Create an Industry: The Making of the Brown Box and PONG](http://gdcvault.com/play/29/): Ralph H. Baer, Allan Alcorn (IMMI)
+- [2008] [FABLE 2 - The Big Three Features Revealed](http://gdcvault.com/play/28/): Peter Molyneux (Lionhead Studios)
+- [2008] [How to Create an Industry: The Making of the Brown Box and PONG](http://gdcvault.com/play/29/): Ralph H. Baer, Allan Alcorn (IMMI)
 
 ## 2007 ##
-- [Bookworm Adventures Post-Mortem](http://gdcvault.com/play/1019226/): Tysen Henderson, Jeff Weinstein (PopCap Games)
-- [Building The Future Of Indie Games](http://gdcvault.com/play/1014825/) (Panel)
+- [2007] [Bookworm Adventures Post-Mortem](http://gdcvault.com/play/1019226/): Tysen Henderson, Jeff Weinstein (PopCap Games)
+- [2007] [Building The Future Of Indie Games](http://gdcvault.com/play/1014825/) (Panel)
 Simon Carless, Mark Morris, Derek Yu, Greg Costikyan, Eric Zimmerman
-- [Design Principles for Casual Games](http://gdcvault.com/play/1019227/): Nick Fortugno (Playmatics)
-- [Episodic Gaming For Indies](http://gdcvault.com/play/1014830/): Dave Grossman, Kevin Bruner (Telltale Games)
-- [Indie Prototyping, Braid, & Making Innovative Games](http://gdcvault.com/play/1014831/): Jonathan Blow (Number None, Inc.)
-- [Innovation in Indie Games](http://gdcvault.com/play/1014832/): Jonathan Mak, Jonathan Blow, Steve Swink, Jenova Chen, Kyle Gabler (Panel)
-- [Making An Indie MMO](http://gdcvault.com/play/1014833/): Daniel James
-- [Marketing For Indies](http://gdcvault.com/play/1014826): Russell Carroll (Reflexive Entertainment/Game Tunnel)
-- [Our Journey From Narbacular Drop To Portal](http://gdcvault.com/play/1014822/): Kim Swift (Airtight Games)
-- [Physics Games Go Indie](http://gdcvault.com/play/1014827): Matthew Wegner (Flashbang Studios)
-- [Postmortem: Gastronaut Studios' Small Arms](http://gdcvault.com/play/1014828/): Jacob Van Wingen (Gastronaut Studios LLC)
-- [Postmortems: Game, Franchise & Company](http://gdcvault.com/play/1019228/): Lee Crawford, Heidi Perry, Jim Greer (TwoFish, PlayFirst, Kongregate)
+- [2007] [Design Principles for Casual Games](http://gdcvault.com/play/1019227/): Nick Fortugno (Playmatics)
+- [2007] [Episodic Gaming For Indies](http://gdcvault.com/play/1014830/): Dave Grossman, Kevin Bruner (Telltale Games)
+- [2007] [Indie Prototyping, Braid, & Making Innovative Games](http://gdcvault.com/play/1014831/): Jonathan Blow (Number None, Inc.)
+- [2007] [Innovation in Indie Games](http://gdcvault.com/play/1014832/): Jonathan Mak, Jonathan Blow, Steve Swink, Jenova Chen, Kyle Gabler (Panel)
+- [2007] [Making An Indie MMO](http://gdcvault.com/play/1014833/): Daniel James
+- [2007] [Marketing For Indies](http://gdcvault.com/play/1014826): Russell Carroll (Reflexive Entertainment/Game Tunnel)
+- [2007] [Our Journey From Narbacular Drop To Portal](http://gdcvault.com/play/1014822/): Kim Swift (Airtight Games)
+- [2007] [Physics Games Go Indie](http://gdcvault.com/play/1014827): Matthew Wegner (Flashbang Studios)
+- [2007] [Postmortem: Gastronaut Studios' Small Arms](http://gdcvault.com/play/1014828/): Jacob Van Wingen (Gastronaut Studios LLC)
+- [2007] [Postmortems: Game, Franchise & Company](http://gdcvault.com/play/1019228/): Lee Crawford, Heidi Perry, Jim Greer (TwoFish, PlayFirst, Kongregate)
 
 ## 2006 ##
-- [What's Next in Game Design?](http://gdcvault.com/play/1014845/): Will Wright
-- [Building a Better Battlestar](http://gdcvault.com/play/1016689/): Ronald Moore
+- [2006] [What's Next in Game Design?](http://gdcvault.com/play/1014845/): Will Wright
+- [2006] [Building a Better Battlestar](http://gdcvault.com/play/1016689/): Ronald Moore
 
 ## 2005 ##
-- [Heart of a Gamer](http://gdcvault.com/play/1014847/): Satoru Iwata (Nintendo Co., Ltd.)
+- [2005] [Heart of a Gamer](http://gdcvault.com/play/1014847/): Satoru Iwata (Nintendo Co., Ltd.)
 
 ## 2004 ##
 - [2004] [Animation Bootcamp: An Indie Approach to Procedural Animation](http://gdcvault.com/play/1020583/): David Rosen (Wolfire Games)
