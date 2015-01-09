@@ -4,6 +4,11 @@
 
 For contributions, check out [contribution guidelines](CONTRIBUTING.md).
 
+# Other
+- [2014] [Steam Dev Days](https://www.youtube.com/playlist?list=PLckFgM6dUP2hc4iy-IdKFtqR9TeZWMPjm) - Youtube playlist
+
+# GDC Talks
+
 ## 2014 ##
 - [2014, Europe] [Curating Video Game Culture: The New Wave of Video Game Events](http://gdcvault.com/play/1020374/): Sarah Brin, Marie Foulston, Kunal Gupta, Jim Munroe, Wiley Wiggins (Panel)
 - [2014, Europe] [Scapegoats No More: Improving the Public Image of Games (Presented by IGDA)](http://gdcvault.com/play/1018081/): Ian Bogost, Michael Capps, Daniel Greenberg (Panel)
