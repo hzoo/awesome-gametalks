@@ -16,7 +16,7 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 - [2013, DICE] [Youtube](https://www.youtube.com/playlist?list=PLLx_Nt-I7VioDSuOC24uI52knYk44egII)
 - [2012 - Now, DigiPen Game Engine Architecture] [Youtube](https://www.youtube.com/user/GameEngineArchitects/videos) 
 - [2012 - Now, NYU Poly Game Lab] [Youtube](https://www.youtube.com/user/POLYGAMELAB/videos)
-
+- [2007, UT, Warren Spector Lectures] [Youtube](https://www.youtube.com/playlist?list=PLC4AF467F9391D767)
 ## Other
 - [2014, Tallinn University] [Innovation in Game Design](https://www.youtube.com/watch?v=4DBq2dHw4uM): Richard Bartle
 - [2013, PRACTICE 2013] [Desigining a Legacy Game](http://vimeo.com/82383614): Rob Daviau (IronWall Games)
