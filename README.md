@@ -19,6 +19,7 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 - [2007, UT, Warren Spector Lectures] [Youtube](https://www.youtube.com/playlist?list=PLC4AF467F9391D767)
 
 ## Other
+- [2014, University of Virginia] [A Fireside Chat with Rich Hilleman](https://www.youtube.com/watch?v=LZu6229ZcT0): Rich Hilleman (EA)
 - [2014, Tallinn University] [Innovation in Game Design](https://www.youtube.com/watch?v=4DBq2dHw4uM): Richard Bartle
 - [2013, PRACTICE 2013] [Desigining a Legacy Game](http://vimeo.com/82383614): Rob Daviau (IronWall Games)
 - [2013, Creative Mornings] [Game Design: The Medium is the Message](https://www.youtube.com/watch?v=AxFzf6yIfcc): Jonathan Blow (Number None, Inc.)
