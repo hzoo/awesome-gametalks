@@ -52,6 +52,7 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 - [2013] [Obsessive-Compulsive Development: Retro/Grade Postmortem](http://www.gdcvault.com/play/1017963/): Matt Gilgenbach (24 Caret Games)
 - [2013] [The Western Games That Conquered China](http://gdcvault.com/play/1017999/): Henry Fong (Yodo1)
 - [2012] [A Theory of Fun 10 Years Later](http://www.gdcvault.com/play/1016632/): Raph Koster (Playdom)
+- [2012] [Classic Game Postmortem: Harvest Moon](http://www.gdcvault.com/play/1015842/): Yasuhiro Wada (Toy Box, Inc.)
 - [2012] [The 5 Domains of Play: Applying Psychology's Big 5 Motivation Domains to Games](http://gdcvault.com/play/1015595/): Jason VandenBerghe (Ubisoft)
 - [2011] [Dynamics: The State of the Art](http://www.gdcvault.com/play/1014597/): Clint Hocking (LucasArts)
 - [2011] [The Road Ahead](https://www.youtube.com/watch?v=5fkSUQEMwV4): Cliff Bleszinski (Epic Games)
