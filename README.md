@@ -38,6 +38,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [2013, PRACTICE 2013] [Desigining a Legacy Game](http://vimeo.com/82383614): Rob Daviau (IronWall Games)
 - [2013, BAFTA] [From Shodan, to Big Daddy, to Elizabeth: The Evolution of AI Companions](https://www.youtube.com/watch?v=Efv9Mgwk8SU): Ken Levine (Irrational Games)
 - [2013, Creative Mornings] [Game Design: The Medium is the Message](https://www.youtube.com/watch?v=AxFzf6yIfcc): Jonathan Blow (Number None, Inc.)
+- [2013, Game Connection Europe] [Great Level Design and the Artistic Expression of Mathematics](https://www.youtube.com/watch?v=BIlr7R7UAfc): Hamish Todd
 - [2013, Unite Nordic] [Sir, You Are Being Proceudrally Generated](https://www.youtube.com/watch?v=GYYuhuarTA0): Tom Betts, James Carey (Big Robot)
 - [2013, INDIGO] [The Art of Screenshake](https://www.youtube.com/watch?v=AJdEqssNZ-U): Jan Willem Nijman (Vlambeer)
 - [2012, NY Film Academy] [Functional Theory for Game Design](https://www.youtube.com/watch?v=RzhdkYws_60): Keith Burgun (Dinofarm Games)
