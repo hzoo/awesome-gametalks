@@ -23,6 +23,7 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 - [2014, Tallinn University] [Innovation in Game Design](https://www.youtube.com/watch?v=4DBq2dHw4uM): Richard Bartle
 - [2013, PRACTICE 2013] [Desigining a Legacy Game](http://vimeo.com/82383614): Rob Daviau (IronWall Games)
 - [2013, Creative Mornings] [Game Design: The Medium is the Message](https://www.youtube.com/watch?v=AxFzf6yIfcc): Jonathan Blow (Number None, Inc.)
+- [2013, Unite Nordic] [Sir, You Are Being Proceudrally Generated](https://www.youtube.com/watch?v=GYYuhuarTA0): Tom Betts, James Carey (Big Robot)
 - [2013, INDIGO] [The Art of Screenshake](https://www.youtube.com/watch?v=AJdEqssNZ-U): Jan Willem Nijman (Vlambeer)
 - [2012, NY Film Academy] [Functional Theory for Game Design](https://www.youtube.com/watch?v=RzhdkYws_60): Keith Burgun (Dinofarm Games)
 - [2012, Eurogamer Expo] [How to Give Yourself a Job in the Games Industry](https://www.youtube.com/watch?v=tdwzvdZFxVM): Chet Faliszek (Valve)
@@ -30,7 +31,7 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 - [2011, Google Tech Talks] [Getting Gamification Right](https://www.youtube.com/watch?v=7ZGCPap7GkY): Sebastian Deterding (PLAIT Lab)
 - [2011, Games for Change] [G4LI Keynote](http://vimeo.com/25780504): Gabe Newell (Valve)
 - [2011, Games for Change] [Make Games, Not War](http://vimeo.com/25681002): Jesse Schell (Schell Games)
-- [2011, IndieCade] [Designing the Universe](https://www.youtube.com/watch?v=OGSeLSmOALU): Jonathan Blow & Marc Ten Boch
+- [2011, IndieCade] [Designing the Universe](https://www.youtube.com/watch?v=OGSeLSmOALU): Jonathan Blow, Marc Ten Boch
 - [2010, DICE] [Design Outside the Box](http://www.g4tv.com/videos/44277/dice-2010-design-outside-the-box-presentation/): Jesse Schell (Schell Games)
 - [2010, Rice Univerisity] [Video Games and the Human Condition](https://www.youtube.com/watch?v=SqFu5O-oPmU): Jonathan Blow (Number None, Inc.)
 - [2008, MIGS] [Fundamental Conflicts in Contemporary Game Design](https://www.youtube.com/watch?v=mGTV8qLbBWE): Jonathan Blow (Number None, Inc.)
