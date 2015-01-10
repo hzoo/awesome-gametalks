@@ -42,6 +42,7 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 - [2012] [A Theory of Fun 10 Years Later](http://www.gdcvault.com/play/1016632/): Raph Koster (Playdom)
 - [2012] [The 5 Domains of Play: Applying Psychology's Big 5 Motivation Domains to Games](http://gdcvault.com/play/1015595/): Jason VandenBerghe (Ubisoft)
 - [2011] [Dynamics: The State of the Art](http://www.gdcvault.com/play/1014597/): Clint Hocking (LucasArts)
+- [2011] [The Road Ahead](https://www.youtube.com/watch?v=5fkSUQEMwV4): Cliff Bleszinski (Epic Games)
 - [2011] [Truth in Game Design](http://www.gdcvault.com/play/1014982/): Jonathan Blow (Number None, Inc.)
 - [2010] [Design in Detail: Changing the Time Between Shots for the Sniper Rifle from 0.5 to 0.7 Seconds for Halo 3](http://www.gdcvault.com/play/1012211/): Jaime Griesemer (Bungie)
 - [2010, Keynote] [Everything You Know is Wrong](https://www.youtube.com/watch?v=bY7aRJE-oOY): by Sid Meier (Firaxis Games)
