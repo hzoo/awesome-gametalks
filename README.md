@@ -10,6 +10,7 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 - [2014, Steam Dev Days] [Youtube](https://www.youtube.com/playlist?list=PLckFgM6dUP2hc4iy-IdKFtqR9TeZWMPjm)
 - [2014, Unknown Worlds Post Mortems] [Youtube](https://www.youtube.com/playlist?list=PLWuf3ThLEyAgy-V9EtFo_LA-96_lrGTKf)
 - [2014, Oculus Connect] [Youtube](https://www.youtube.com/playlist?list=PLL2xVXGs1SP5CVE6X3GMSroO2cfHxzeCz)
+- [2012 - Now, DigiPen Game Engine Architecture] [Youtube](https://www.youtube.com/user/GameEngineArchitects/videos) 
 
 ## Other
 - [2014, Tallinn University] [Innovation in Game Design](https://www.youtube.com/watch?v=4DBq2dHw4uM): Richard Bartle
