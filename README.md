@@ -16,11 +16,13 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 - [2014, Tallinn University] [Innovation in Game Design](https://www.youtube.com/watch?v=4DBq2dHw4uM): Richard Bartle
 - [2013, Creative Mornings] [Game Design: The Medium is the Message](https://www.youtube.com/watch?v=AxFzf6yIfcc): Jonathan Blow (Number None, Inc.)
 - [2012, NY Film Academy] [Functional Theory for Game Design](https://www.youtube.com/watch?v=RzhdkYws_60): Keith Burgun (Dinofarm Games)
+- [2011, Google Tech Talks] [Getting Gamification Right](https://www.youtube.com/watch?v=7ZGCPap7GkY): Sebastian Deterding (PLAIT Lab)
 - [2011, Games for Change] [G4LI Keynote](http://vimeo.com/25780504): Gabe Newell (Valve)
 - [2011, Games for Change] [Make Games, Not War](http://vimeo.com/25681002): Jesse Schell (Schell Games)
 - [2010, DICE] [Design Outside the Box](http://www.g4tv.com/videos/44277/dice-2010-design-outside-the-box-presentation/): Jesse Schell (Schell Games)
 - [2010, Rice Univerisity] [Video Games and the Human Condition](https://www.youtube.com/watch?v=SqFu5O-oPmU): Jonathan Blow (Number None, Inc.)
 - [2008, MIGS] [Fundamental Conflicts in Contemporary Game Design](https://www.youtube.com/watch?v=mGTV8qLbBWE): Jonathan Blow (Number None, Inc.)
+- [2008, Google Tech Talks] [Designing a Pandemic: Lessons Learned](https://www.youtube.com/watch?v=cdTVcFo2EQw): Matt Leacock (Yahoo! Inc.)
 
 ## GDC Talks
 - [2014] [A Study in Transparency: How Board Games Matter](http://www.gdcvault.com/play/1020408/): Soren Johnson (Mohawk Games) 
