@@ -10,6 +10,8 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 - [2014, Steam Dev Days] [Youtube playlist](https://www.youtube.com/playlist?list=PLckFgM6dUP2hc4iy-IdKFtqR9TeZWMPjm)
 - [2011, Games for Change] [G4LI Keynote](http://vimeo.com/25780504): Gabe Newell 
 - [2011, Games for Change] [Make Games, Not War](http://vimeo.com/25681002): Jesse Schell
+- [2010, DICE] [Design Outside the Box](http://www.g4tv.com/videos/44277/dice-2010-design-outside-the-box-presentation/): Jesse Schell
+- [2008, MIGS] [Fundamental Conflicts in Contemporary Game Design](https://www.youtube.com/watch?v=mGTV8qLbBWE): Jonathan Blow
 
 # GDC Talks
 - [2013, Europe] [#1ReasonToBe](http://gdcvault.com/play/1020902/): Annakaisa Kultima, Auriea Harvey, Brenda Romero, Zuraida Buter, Henrike aka Riker Lode, Siobhan Reddy, Leigh Alexander (Panel)
@@ -20,3 +22,4 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 - [2011] [Truth in Game Design](http://www.gdcvault.com/play/1014982/): Jonathan Blow (Number None, Inc.)
 - [2010] [Design in Detail: Changing the Time Between Shots for the Sniper Rifle from 0.5 to 0.7 Seconds for Halo 3](http://www.gdcvault.com/play/1012211/): Jaime Griesemer (Bungie)
 - [2009] [Everything I Learned About Level Design I Learned from Disneyland](http://gdcvault.com/play/1305/): Scott Rogers (THQ)
+- [2007] [Indie Prototyping](https://www.youtube.com/watch?v=ISutk1mauPM): Jonathan Blow
