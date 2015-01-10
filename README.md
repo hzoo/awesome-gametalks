@@ -24,6 +24,7 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 - [2010, Rice Univerisity] [Video Games and the Human Condition](https://www.youtube.com/watch?v=SqFu5O-oPmU): Jonathan Blow (Number None, Inc.)
 - [2008, MIGS] [Fundamental Conflicts in Contemporary Game Design](https://www.youtube.com/watch?v=mGTV8qLbBWE): Jonathan Blow (Number None, Inc.)
 - [2008, Google Tech Talks] [Designing a Pandemic: Lessons Learned](https://www.youtube.com/watch?v=cdTVcFo2EQw): Matt Leacock (Yahoo! Inc.)
+- [2003, Computer History Museum] [Lessons from Game Design](https://www.youtube.com/watch?v=CdgQyq3hEPo): Will Wright (Maxis)
 
 ## GDC Talks
 - [2014] [A Study in Transparency: How Board Games Matter](http://www.gdcvault.com/play/1020408/): Soren Johnson (Mohawk Games) 
