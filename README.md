@@ -12,10 +12,11 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 - [2014, Oculus Connect] [Youtube](https://www.youtube.com/playlist?list=PLL2xVXGs1SP5CVE6X3GMSroO2cfHxzeCz)
 
 # Other
-- [2011, Games for Change] [G4LI Keynote](http://vimeo.com/25780504): Gabe Newell 
-- [2011, Games for Change] [Make Games, Not War](http://vimeo.com/25681002): Jesse Schell
-- [2010, DICE] [Design Outside the Box](http://www.g4tv.com/videos/44277/dice-2010-design-outside-the-box-presentation/): Jesse Schell
-- [2008, MIGS] [Fundamental Conflicts in Contemporary Game Design](https://www.youtube.com/watch?v=mGTV8qLbBWE): Jonathan Blow
+- [2012] [Functional Theory for Game Design](https://www.youtube.com/watch?v=RzhdkYws_60): Keith Burgun (Dinofarm Games)
+- [2011, Games for Change] [G4LI Keynote](http://vimeo.com/25780504): Gabe Newell (Valve)
+- [2011, Games for Change] [Make Games, Not War](http://vimeo.com/25681002): Jesse Schell (Schell Games)
+- [2010, DICE] [Design Outside the Box](http://www.g4tv.com/videos/44277/dice-2010-design-outside-the-box-presentation/): Jesse Schell (Schell Games)
+- [2008, MIGS] [Fundamental Conflicts in Contemporary Game Design](https://www.youtube.com/watch?v=mGTV8qLbBWE): Jonathan Blow (Number None, Inc.)
 
 # GDC Talks
 - [2014] [Hearts and Minds](http://www.gdcvault.com/play/1020788/): Frank Lantz (NYU Game Center)
@@ -29,4 +30,4 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 - [2010] [Design in Detail: Changing the Time Between Shots for the Sniper Rifle from 0.5 to 0.7 Seconds for Halo 3](http://www.gdcvault.com/play/1012211/): Jaime Griesemer (Bungie)
 - [2010, Keynote] [Everything You Know is Wrong](https://www.youtube.com/watch?v=bY7aRJE-oOY): by Sid Meier (Firaxis Games)
 - [2009] [Everything I Learned About Level Design I Learned from Disneyland](http://gdcvault.com/play/1305/): Scott Rogers (THQ)
-- [2007] [Indie Prototyping](https://www.youtube.com/watch?v=ISutk1mauPM): Jonathan Blow
+- [2007] [Indie Prototyping](https://www.youtube.com/watch?v=ISutk1mauPM): Jonathan Blow (Number None, Inc.)
