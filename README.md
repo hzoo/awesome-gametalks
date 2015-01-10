@@ -7,9 +7,13 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 ## If you want just a list of free GDC talks: [GDC](GDC.md)
 
 ## Playlists
+- [2014, DICE Europe] [Youtube](https://www.youtube.com/playlist?list=PLLx_Nt-I7ViqrulUPyfVQQf1xiu7Fj0b1)
+- [2014, DICE] [Youtube](https://www.youtube.com/playlist?list=PLLx_Nt-I7Vio9PferYNMlxZoMjD_Yzk3d)
 - [2014, Steam Dev Days] [Youtube](https://www.youtube.com/playlist?list=PLckFgM6dUP2hc4iy-IdKFtqR9TeZWMPjm)
 - [2014, Unknown Worlds Post Mortems] [Youtube](https://www.youtube.com/playlist?list=PLWuf3ThLEyAgy-V9EtFo_LA-96_lrGTKf)
 - [2014, Oculus Connect] [Youtube](https://www.youtube.com/playlist?list=PLL2xVXGs1SP5CVE6X3GMSroO2cfHxzeCz)
+- [2013, DICE Europe] [Youtube](https://www.youtube.com/playlist?list=PLLx_Nt-I7Viqp_BIKm8gyyOHVrLi8HrEI)
+- [2013, DICE] [Youtube](https://www.youtube.com/playlist?list=PLLx_Nt-I7VioDSuOC24uI52knYk44egII)
 - [2012 - Now, DigiPen Game Engine Architecture] [Youtube](https://www.youtube.com/user/GameEngineArchitects/videos) 
 - [2012 - Now, NYU Poly Game Lab] [Youtube](https://www.youtube.com/user/POLYGAMELAB/videos)
 
