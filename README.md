@@ -21,7 +21,7 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 - [2013, Europe] [#1ReasonToBe](http://gdcvault.com/play/1020902/): Annakaisa Kultima, Auriea Harvey, Brenda Romero, Zuraida Buter, Henrike aka Riker Lode, Siobhan Reddy, Leigh Alexander (Panel)
 - [2013] [Obsessive-Compulsive Development: Retro/Grade Postmortem](http://www.gdcvault.com/play/1017963/): Matt Gilgenbach (24 Caret Games)
 - [2013] [The Western Games That Conquered China](http://gdcvault.com/play/1017999/): Henry Fong (Yodo1)
-- [2012] [A Theory of Fun 10 Years Later](http://www.gdcvault.com/play/1016632/A-Theory-of-Fun-10): Raph Koster (Playdom)
+- [2012] [A Theory of Fun 10 Years Later](http://www.gdcvault.com/play/1016632/): Raph Koster (Playdom)
 - [2012] [The 5 Domains of Play: Applying Psychology's Big 5 Motivation Domains to Games](http://gdcvault.com/play/1015595/): Jason VandenBerghe (Ubisoft)
 - [2011] [Dynamics: The State of the Art](http://www.gdcvault.com/play/1014597/): Clint Hocking (LucasArts)
 - [2011] [Truth in Game Design](http://www.gdcvault.com/play/1014982/): Jonathan Blow (Number None, Inc.)
