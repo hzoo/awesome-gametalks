@@ -1,8 +1,6 @@
 # Awesome Game Talks
 
-> A curated list of awesome game development talks
-
-For contributions, check out [contribution guidelines](CONTRIBUTING.md). And check out other [awesome](https://github.com/sindresorhus/awesome) stuff!
+Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https://github.com/sindresorhus/awesome) stuff!
 
 ## If you want just a list of free GDC talks: [GDC](GDC.md)
 
