@@ -8,6 +8,8 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 
 # Other
 - [2014] [Steam Dev Days](https://www.youtube.com/playlist?list=PLckFgM6dUP2hc4iy-IdKFtqR9TeZWMPjm) - Youtube playlist
+- [2011, Games for Change] [G4LI Keynote](http://vimeo.com/25780504): Gabe Newell 
+- [2011, Games for Change] [Make Games, Not War](http://vimeo.com/25681002): Jesse Schell
 
 # GDC Talks
 - [2013, Europe] [#1ReasonToBe](http://gdcvault.com/play/1020902/): Annakaisa Kultima, Auriea Harvey, Brenda Romero, Zuraida Buter, Henrike aka Riker Lode, Siobhan Reddy, Leigh Alexander (Panel)
