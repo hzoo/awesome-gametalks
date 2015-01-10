@@ -23,6 +23,7 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 - [2013, Creative Mornings] [Game Design: The Medium is the Message](https://www.youtube.com/watch?v=AxFzf6yIfcc): Jonathan Blow (Number None, Inc.)
 - [2013, INDIGO] [The Art of Screenshake](https://www.youtube.com/watch?v=AJdEqssNZ-U): Jan Willem Nijman (Vlambeer)
 - [2012, NY Film Academy] [Functional Theory for Game Design](https://www.youtube.com/watch?v=RzhdkYws_60): Keith Burgun (Dinofarm Games)
+- [2012, Eurogamer Expo] [How to Give Yourself a Job in the Games Industry](https://www.youtube.com/watch?v=tdwzvdZFxVM): Chet Faliszek (Valve)
 - [2011, NYU Game Center] [Lecture Series: Portal 2](http://vimeo.com/23534126): Erik Wolpaw (Valve)
 - [2011, Google Tech Talks] [Getting Gamification Right](https://www.youtube.com/watch?v=7ZGCPap7GkY): Sebastian Deterding (PLAIT Lab)
 - [2011, Games for Change] [G4LI Keynote](http://vimeo.com/25780504): Gabe Newell (Valve)
