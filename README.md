@@ -19,8 +19,10 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 
 ## Other
 - [2014, Tallinn University] [Innovation in Game Design](https://www.youtube.com/watch?v=4DBq2dHw4uM): Richard Bartle
+- [2013, PRACTICE 2013] [Desigining a Legacy Game](http://vimeo.com/82383614): Rob Daviau (IronWall Games)
 - [2013, Creative Mornings] [Game Design: The Medium is the Message](https://www.youtube.com/watch?v=AxFzf6yIfcc): Jonathan Blow (Number None, Inc.)
 - [2012, NY Film Academy] [Functional Theory for Game Design](https://www.youtube.com/watch?v=RzhdkYws_60): Keith Burgun (Dinofarm Games)
+- [2011, NYU Game Center] [Lecture Series: Portal 2](http://vimeo.com/23534126): Erik Wolpaw (Valve)
 - [2011, Google Tech Talks] [Getting Gamification Right](https://www.youtube.com/watch?v=7ZGCPap7GkY): Sebastian Deterding (PLAIT Lab)
 - [2011, Games for Change] [G4LI Keynote](http://vimeo.com/25780504): Gabe Newell (Valve)
 - [2011, Games for Change] [Make Games, Not War](http://vimeo.com/25681002): Jesse Schell (Schell Games)
