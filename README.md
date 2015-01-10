@@ -7,8 +7,9 @@
 For contributions, check out [contribution guidelines](CONTRIBUTING.md). And check out other [awesome](https://github.com/sindresorhus/awesome) stuff!
 
 # Lists
-- [2014, Steam Dev Days] [Youtube playlist](https://www.youtube.com/playlist?list=PLckFgM6dUP2hc4iy-IdKFtqR9TeZWMPjm)
-- [2014,  Unknown Worlds Post Mortems] [Youtube playlist](https://www.youtube.com/playlist?list=PLWuf3ThLEyAgy-V9EtFo_LA-96_lrGTKf)
+- [2014, Steam Dev Days] [Youtube](https://www.youtube.com/playlist?list=PLckFgM6dUP2hc4iy-IdKFtqR9TeZWMPjm)
+- [2014, Unknown Worlds Post Mortems] [Youtube](https://www.youtube.com/playlist?list=PLWuf3ThLEyAgy-V9EtFo_LA-96_lrGTKf)
+- [2014, Oculus Connect] [Youtube](https://www.youtube.com/playlist?list=PLL2xVXGs1SP5CVE6X3GMSroO2cfHxzeCz)
 
 # Other
 - [2011, Games for Change] [G4LI Keynote](http://vimeo.com/25780504): Gabe Newell 
