@@ -2,16 +2,16 @@
 
 > A curated list of awesome game development talks
 
-> If you want a longer list of free GDC talks: [GDC](GDC.md)
-
 For contributions, check out [contribution guidelines](CONTRIBUTING.md). And check out other [awesome](https://github.com/sindresorhus/awesome) stuff!
 
-# Lists
+## If you want just a list of free GDC talks: [GDC](GDC.md)
+
+## Lists
 - [2014, Steam Dev Days] [Youtube](https://www.youtube.com/playlist?list=PLckFgM6dUP2hc4iy-IdKFtqR9TeZWMPjm)
 - [2014, Unknown Worlds Post Mortems] [Youtube](https://www.youtube.com/playlist?list=PLWuf3ThLEyAgy-V9EtFo_LA-96_lrGTKf)
 - [2014, Oculus Connect] [Youtube](https://www.youtube.com/playlist?list=PLL2xVXGs1SP5CVE6X3GMSroO2cfHxzeCz)
 
-# Other
+## Other
 - [2014, Tallinn University] [Innovation in Game Design](https://www.youtube.com/watch?v=4DBq2dHw4uM): Richard Bartle
 - [2013, Creative Mornings] [Game Design: The Medium is the Message](https://www.youtube.com/watch?v=AxFzf6yIfcc): Jonathan Blow (Number None, Inc.)
 - [2012, NY Film Academy] [Functional Theory for Game Design](https://www.youtube.com/watch?v=RzhdkYws_60): Keith Burgun (Dinofarm Games)
@@ -21,7 +21,7 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 - [2010, Rice Univerisity] [Video Games and the Human Condition](https://www.youtube.com/watch?v=SqFu5O-oPmU): Jonathan Blow (Number None, Inc.)
 - [2008, MIGS] [Fundamental Conflicts in Contemporary Game Design](https://www.youtube.com/watch?v=mGTV8qLbBWE): Jonathan Blow (Number None, Inc.)
 
-# GDC Talks
+## GDC Talks
 - [2014] [A Study in Transparency: How Board Games Matter](http://www.gdcvault.com/play/1020408/): Soren Johnson (Mohawk Games) 
 - [2014] [Hearts and Minds](http://www.gdcvault.com/play/1020788/): Frank Lantz (NYU Game Center)
 - [2013, Europe] [#1ReasonToBe](http://gdcvault.com/play/1020902/): Annakaisa Kultima, Auriea Harvey, Brenda Romero, Zuraida Buter, Henrike aka Riker Lode, Siobhan Reddy, Leigh Alexander (Panel)
