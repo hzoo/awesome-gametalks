@@ -43,7 +43,8 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [2013, INDIGO] [The Art of Screenshake](https://www.youtube.com/watch?v=AJdEqssNZ-U): Jan Willem Nijman (Vlambeer)
 - [2012, NY Film Academy] [Functional Theory for Game Design](https://www.youtube.com/watch?v=RzhdkYws_60): Keith Burgun (Dinofarm Games)
 - [2012, Eurogamer Expo] [How to Give Yourself a Job in the Games Industry](https://www.youtube.com/watch?v=tdwzvdZFxVM): Chet Faliszek (Valve)
-- [2012 - Nordic Game Indie Night] [Juice It Or Lose It](http://www.youtube.com/watch?v=Fy0aCDmgnxg): Martin Jonasson, Petri Purho (Indie)
+- [2012 - Nordic Game Indie Night] [Juice It Or Lose It](https://www.youtube.com/watch?v=Fy0aCDmgnxg): Martin Jonasson, Petri Purho (Indie)
+- [2012, Indie Connect] [Sensible Nonsense](https://www.youtube.com/watch?v=vk94HoI_tCo): Rami Ismail, Jan Willem Nijman (Vlambeer)
 - [2011, NYU Game Center] [Lecture Series: Portal 2](http://vimeo.com/23534126): Erik Wolpaw (Valve)
 - [2011, Google Tech Talks] [Getting Gamification Right](https://www.youtube.com/watch?v=7ZGCPap7GkY): Sebastian Deterding (PLAIT Lab)
 - [2011, Games for Change] [G4LI Keynote](http://vimeo.com/25780504): Gabe Newell (Valve)
@@ -53,7 +54,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [2010, Rice Univerisity] [Video Games and the Human Condition](https://www.youtube.com/watch?v=SqFu5O-oPmU): Jonathan Blow (Number None, Inc.)
 - [2008, MIGS] [Fundamental Conflicts in Contemporary Game Design](https://www.youtube.com/watch?v=mGTV8qLbBWE): Jonathan Blow (Number None, Inc.)
 - [2008, Google Tech Talks] [Designing a Pandemic: Lessons Learned](https://www.youtube.com/watch?v=cdTVcFo2EQw): Matt Leacock (Yahoo! Inc.)
-- [2007, Freeplay] [How and Why](http://www.youtube.com/watch?v=RsT-5VSqk8I): Jonathan Blow (Number None, Inc.)
+- [2007, Freeplay] [How and Why](https://www.youtube.com/watch?v=RsT-5VSqk8I): Jonathan Blow (Number None, Inc.)
 - [2007, MIGS] [Design Reboot](https://www.youtube.com/watch?v=K0kup_anLeU): Jonathan Blow (Number None, Inc.)
 - [2003, Computer History Museum] [Lessons from Game Design](https://www.youtube.com/watch?v=CdgQyq3hEPo): Will Wright (Maxis)
 
