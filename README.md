@@ -12,6 +12,7 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 - [2014, Oculus Connect] [Youtube](https://www.youtube.com/playlist?list=PLL2xVXGs1SP5CVE6X3GMSroO2cfHxzeCz)
 
 # Other
+- [2014, Tallinn University] [Innovation in Game Design](https://www.youtube.com/watch?v=4DBq2dHw4uM): Richard Bartle
 - [2013, Creative Mornings] [Game Design: The Medium is the Message](https://www.youtube.com/watch?v=AxFzf6yIfcc): Jonathan Blow (Number None, Inc.)
 - [2012, NY Film Academy] [Functional Theory for Game Design](https://www.youtube.com/watch?v=RzhdkYws_60): Keith Burgun (Dinofarm Games)
 - [2011, Games for Change] [G4LI Keynote](http://vimeo.com/25780504): Gabe Newell (Valve)
@@ -21,6 +22,7 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 - [2008, MIGS] [Fundamental Conflicts in Contemporary Game Design](https://www.youtube.com/watch?v=mGTV8qLbBWE): Jonathan Blow (Number None, Inc.)
 
 # GDC Talks
+- [2014] [A Study in Transparency: How Board Games Matter](http://www.gdcvault.com/play/1020408/): Soren Johnson (Mohawk Games) 
 - [2014] [Hearts and Minds](http://www.gdcvault.com/play/1020788/): Frank Lantz (NYU Game Center)
 - [2013, Europe] [#1ReasonToBe](http://gdcvault.com/play/1020902/): Annakaisa Kultima, Auriea Harvey, Brenda Romero, Zuraida Buter, Henrike aka Riker Lode, Siobhan Reddy, Leigh Alexander (Panel)
 - [2013] [Obsessive-Compulsive Development: Retro/Grade Postmortem](http://www.gdcvault.com/play/1017963/): Matt Gilgenbach (24 Caret Games)
