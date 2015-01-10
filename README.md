@@ -41,8 +41,11 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 - [2003, Computer History Museum] [Lessons from Game Design](https://www.youtube.com/watch?v=CdgQyq3hEPo): Will Wright (Maxis)
 
 ## GDC Talks
+- [2014] [Antichamber: An Overnight Success, Seven Years in the Making](http://www.gdcvault.com/play/1020776/): Alexander Bruce (Antichamber)
 - [2014] [A Study in Transparency: How Board Games Matter](http://www.gdcvault.com/play/1020408/): Soren Johnson (Mohawk Games) 
 - [2014] [Hearts and Minds](http://www.gdcvault.com/play/1020788/): Frank Lantz (NYU Game Center)
+- [2014] [Interpreting Feedback and Maintaining Your Vision](http://www.gdcvault.com/play/1020495/): Andy Nguyen (Pocketwatch Games)
+- [2014] [Why Is Gone Home a Game?](http://www.gdcvault.com/play/1020376/): Steve Gaynor (The Fullbright Company)
 - [2014] [Jiro Dreams of Game Design](http://www.gdcvault.com/play/1020496/): Brenda Romero (UC Santa Cruz)
 - [2013, Europe] [#1ReasonToBe](http://gdcvault.com/play/1020902/): Annakaisa Kultima, Auriea Harvey, Brenda Romero, Zuraida Buter, Henrike aka Riker Lode, Siobhan Reddy, Leigh Alexander (Panel)
 - [2013] [Obsessive-Compulsive Development: Retro/Grade Postmortem](http://www.gdcvault.com/play/1017963/): Matt Gilgenbach (24 Caret Games)
