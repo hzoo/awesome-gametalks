@@ -14,6 +14,7 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 - [2014, Oculus Connect] [Youtube](https://www.youtube.com/playlist?list=PLL2xVXGs1SP5CVE6X3GMSroO2cfHxzeCz)
 - [2013, DICE Europe] [Youtube](https://www.youtube.com/playlist?list=PLLx_Nt-I7Viqp_BIKm8gyyOHVrLi8HrEI)
 - [2013, DICE] [Youtube](https://www.youtube.com/playlist?list=PLLx_Nt-I7VioDSuOC24uI52knYk44egII)
+- [2013 - Now, IndieCade] [Youtube](https://www.youtube.com/user/indiecadeofficial/videos)
 - [2012 - Now, DigiPen Game Engine Architecture] [Youtube](https://www.youtube.com/user/GameEngineArchitects/videos) 
 - [2012 - Now, NYU Poly Game Lab] [Youtube](https://www.youtube.com/user/POLYGAMELAB/videos)
 - [2007, UT, Warren Spector Lectures] [Youtube](https://www.youtube.com/playlist?list=PLC4AF467F9391D767)
