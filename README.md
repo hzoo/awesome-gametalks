@@ -24,10 +24,13 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 - [2011, Google Tech Talks] [Getting Gamification Right](https://www.youtube.com/watch?v=7ZGCPap7GkY): Sebastian Deterding (PLAIT Lab)
 - [2011, Games for Change] [G4LI Keynote](http://vimeo.com/25780504): Gabe Newell (Valve)
 - [2011, Games for Change] [Make Games, Not War](http://vimeo.com/25681002): Jesse Schell (Schell Games)
+- [2011, IndieCade] [Designing the Universe](https://www.youtube.com/watch?v=OGSeLSmOALU): Jonathan Blow & Marc Ten Boch
 - [2010, DICE] [Design Outside the Box](http://www.g4tv.com/videos/44277/dice-2010-design-outside-the-box-presentation/): Jesse Schell (Schell Games)
 - [2010, Rice Univerisity] [Video Games and the Human Condition](https://www.youtube.com/watch?v=SqFu5O-oPmU): Jonathan Blow (Number None, Inc.)
 - [2008, MIGS] [Fundamental Conflicts in Contemporary Game Design](https://www.youtube.com/watch?v=mGTV8qLbBWE): Jonathan Blow (Number None, Inc.)
 - [2008, Google Tech Talks] [Designing a Pandemic: Lessons Learned](https://www.youtube.com/watch?v=cdTVcFo2EQw): Matt Leacock (Yahoo! Inc.)
+- [2007, Freeplay] [How and Why](http://www.youtube.com/watch?v=RsT-5VSqk8I): Jonathan Blow (Number None, Inc.)
+- [2007, MIGS] [Design Reboot](https://www.youtube.com/watch?v=K0kup_anLeU): Jonathan Blow (Number None, Inc.)
 - [2003, Computer History Museum] [Lessons from Game Design](https://www.youtube.com/watch?v=CdgQyq3hEPo): Will Wright (Maxis)
 
 ## GDC Talks
