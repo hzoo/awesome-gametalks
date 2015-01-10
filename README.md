@@ -2,7 +2,7 @@
 
 > most videos are free from the gdc vault.
 
-For contributions, check out [contribution guidelines](CONTRIBUTING.md).
+For contributions, check out [contribution guidelines](CONTRIBUTING.md). And check out other [awesome](https://github.com/sindresorhus/awesome) stuff!
 
 # Other
 - [2014] [Steam Dev Days](https://www.youtube.com/playlist?list=PLckFgM6dUP2hc4iy-IdKFtqR9TeZWMPjm) - Youtube playlist
