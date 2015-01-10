@@ -43,6 +43,7 @@ For contributions, check out [contribution guidelines](CONTRIBUTING.md). And che
 
 ## GDC Talks
 - [2014] [Antichamber: An Overnight Success, Seven Years in the Making](http://www.gdcvault.com/play/1020776/): Alexander Bruce (Antichamber)
+- [2014] [Antichamber: Three Years of Hardcore Iteration](http://gdcvault.com/play/1020586/): Alexander Bruce (Antichamber)
 - [2014] [A Study in Transparency: How Board Games Matter](http://www.gdcvault.com/play/1020408/): Soren Johnson (Mohawk Games) 
 - [2014] [Hearts and Minds](http://www.gdcvault.com/play/1020788/): Frank Lantz (NYU Game Center)
 - [2014] [Interpreting Feedback and Maintaining Your Vision](http://www.gdcvault.com/play/1020495/): Andy Nguyen (Pocketwatch Games)
