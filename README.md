@@ -6,7 +6,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 
 - [GDC Talks](#gdc-talks)
 - [Other Talks](#other-talks)
-- [Youtube Playlists](#playlists)
+- [Playlist of Conferences / Lectures](#conferences)
 - [Lists](#lists)
 
 ## GDC Talks
@@ -58,7 +58,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [2007, MIGS] [Design Reboot](https://www.youtube.com/watch?v=K0kup_anLeU): Jonathan Blow (Number None, Inc.)
 - [2003, Computer History Museum] [Lessons from Game Design](https://www.youtube.com/watch?v=CdgQyq3hEPo): Will Wright (Maxis)
 
-## Playlists
+## Conferences
 - [2014, DICE Europe] [Youtube](https://www.youtube.com/playlist?list=PLLx_Nt-I7ViqrulUPyfVQQf1xiu7Fj0b1)
 - [2014, DICE] [Youtube](https://www.youtube.com/playlist?list=PLLx_Nt-I7Vio9PferYNMlxZoMjD_Yzk3d)
 - [2014, Steam Dev Days] [Youtube](https://www.youtube.com/playlist?list=PLckFgM6dUP2hc4iy-IdKFtqR9TeZWMPjm)
@@ -71,6 +71,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
   - [The Secret Mechanisms](https://www.youtube.com/watch?v=us6OPbYtKBM): Jesse Schell (Schell Games)
   - [Storytelling Across Platforms: Who Benefits Most, The Audience or the Player?](https://www.youtube.com/watch?v=a7mihllgiro): JJ Abrams, Gabe Newell
 - [2013 - Now, IndieCade] [Youtube](https://www.youtube.com/user/indiecadeofficial/videos)
+- [2013, PRACTICE] [Vimeo](http://vimeo.com/album/2869597)
 - [2012 - Now, DigiPen Game Engine Architecture] [Youtube](https://www.youtube.com/user/GameEngineArchitects/videos) 
 - [2012 - Now, NYU Poly Game Lab] [Youtube](https://www.youtube.com/user/POLYGAMELAB/videos)
 - [2007, UT, Warren Spector Lectures] [Youtube](https://www.youtube.com/playlist?list=PLC4AF467F9391D767)
