@@ -4,6 +4,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 
 ## If you want just a list of free GDC talks: [GDC](GDC.md)
 
+### Table of Contents
 - [GDC Talks](#gdc-talks)
 - [Other Talks](#other-talks)
 - [Playlist of Conferences / Lectures](#conferences)
