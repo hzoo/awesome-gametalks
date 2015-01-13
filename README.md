@@ -19,6 +19,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [2014] [Interpreting Feedback and Maintaining Your Vision](http://www.gdcvault.com/play/1020495/): Andy Nguyen (Pocketwatch Games)
 - [2014] [Why Is Gone Home a Game?](http://www.gdcvault.com/play/1020376/): Steve Gaynor (The Fullbright Company)
 - [2014] [Jiro Dreams of Game Design](http://www.gdcvault.com/play/1020496/): Brenda Romero (UC Santa Cruz)
+- [2014] [Preserving a Sense of Discovery in the Age of Spoilers](http://vimeo.com/91436410): James Crawford (Twinbeard Studios)
 - [2013, Europe] [#1ReasonToBe](http://gdcvault.com/play/1020902/): Annakaisa Kultima, Auriea Harvey, Brenda Romero, Zuraida Buter, Henrike aka Riker Lode, Siobhan Reddy, Leigh Alexander (Panel)
 - [2013] [Obsessive-Compulsive Development: Retro/Grade Postmortem](http://www.gdcvault.com/play/1017963/): Matt Gilgenbach (24 Caret Games)
 - [2013] [The Western Games That Conquered China](http://gdcvault.com/play/1017999/): Henry Fong (Yodo1)
