@@ -35,6 +35,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [2007] [Innovation in Indie Games](https://www.youtube.com/watch?v=PR-ZtrOGHiY): Kyle Gabler, Jenova Chen, Jon Mak, Jon Blow (Panel)
 
 ## Other Talks
+- [2014, Indievelopment] [Attempting Deep Work, Surviving Long Projects](http://vimeo.com/94259578): Jonathan Blow (Number None, Inc.)
 - [2014, University of Virginia] [A Fireside Chat with Rich Hilleman](https://www.youtube.com/watch?v=LZu6229ZcT0): Rich Hilleman (EA)
 - [2014, Tallinn University] [Innovation in Game Design](https://www.youtube.com/watch?v=4DBq2dHw4uM): Richard Bartle
 - [2013, PRACTICE 2013] [Desigining a Legacy Game](http://vimeo.com/82383614): Rob Daviau (IronWall Games)
