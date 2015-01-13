@@ -11,6 +11,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [Lists](#lists)
 
 ## GDC Talks
+- [2014] [Narrative Legos](http://www.gdcvault.com/play/1020434/): Ken Levine (Irrational Games)
 - [2014] [Antichamber: An Overnight Success, Seven Years in the Making](http://www.gdcvault.com/play/1020776/): Alexander Bruce
 - [2014] [Antichamber: Three Years of Hardcore Iteration](http://gdcvault.com/play/1020586/): Alexander Bruce
 - [2014] [A Study in Transparency: How Board Games Matter](http://www.gdcvault.com/play/1020408/): Soren Johnson (Mohawk Games) 
