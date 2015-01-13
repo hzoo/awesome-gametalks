@@ -51,6 +51,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [2011, Google Tech Talks] [Getting Gamification Right](https://www.youtube.com/watch?v=7ZGCPap7GkY): Sebastian Deterding (PLAIT Lab)
 - [2011, Games for Change] [G4LI Keynote](http://vimeo.com/25780504): Gabe Newell (Valve)
 - [2011, Games for Change] [Make Games, Not War](http://vimeo.com/25681002): Jesse Schell (Schell Games)
+- [2011, Berkeley] [Programming Aesthetics Learned From Making Independent Games](https://www.youtube.com/watch?v=JjDsP5n2kSM): Jonathan Blow (Number None, Inc.)
 - [2011, IndieCade] [Designing the Universe](https://www.youtube.com/watch?v=OGSeLSmOALU): Jonathan Blow, Marc Ten Boch
 - [2010, DICE] [Design Outside the Box](http://www.g4tv.com/videos/44277/dice-2010-design-outside-the-box-presentation/): Jesse Schell (Schell Games)
 - [2010, Rice Univerisity] [Video Games and the Human Condition](https://www.youtube.com/watch?v=SqFu5O-oPmU): Jonathan Blow (Number None, Inc.)
