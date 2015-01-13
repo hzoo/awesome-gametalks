@@ -24,6 +24,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [2012] [A Theory of Fun 10 Years Later](http://www.gdcvault.com/play/1016632/): Raph Koster (Playdom)
 - [2012] [Classic Game Postmortem: Harvest Moon](http://www.gdcvault.com/play/1015842/): Yasuhiro Wada (Toy Box, Inc.)
 - [2012] [The 5 Domains of Play: Applying Psychology's Big 5 Motivation Domains to Games](http://gdcvault.com/play/1015595/): Jason VandenBerghe (Ubisoft)
+- [2011] [Design in Detail: Tuning the Muzzle Velocity of the Plasma Rifle Bolt on Legendary Difficulty Across the HALO Franchise](http://www.gdcvault.com/play/1014704/): Jaime Griesemer (Bungie)
 - [2011] [Dynamics: The State of the Art](http://www.gdcvault.com/play/1014597/): Clint Hocking (LucasArts)
 - [2011] [Life and Death and Middle Pair: Go, Poker and the Sublime](http://gdcvault.com/play/1014383/): Frank Lantz (Zynga)
 - [2011] [The Road Ahead](https://www.youtube.com/watch?v=5fkSUQEMwV4): Cliff Bleszinski (Epic Games)
