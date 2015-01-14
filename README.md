@@ -35,6 +35,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [2010] [Design in Detail: Changing the Time Between Shots for the Sniper Rifle from 0.5 to 0.7 Seconds for Halo 3](http://www.gdcvault.com/play/1012211/): Jaime Griesemer (Bungie)
 - [2010, Keynote] [Everything You Know is Wrong](https://www.youtube.com/watch?v=bY7aRJE-oOY): by Sid Meier (Firaxis Games)
 - [2009] [Everything I Learned About Level Design I Learned from Disneyland](http://gdcvault.com/play/1305/): Scott Rogers (THQ)
+- [2009] [Helping Your Players Feel Smart: Puzzles as User Interface](http://www.gdcvault.com/play/1333/): Randy Smith (Tiger Style)
 - [2007] [Indie Prototyping](https://www.youtube.com/watch?v=ISutk1mauPM): Jonathan Blow (Number None, Inc.)
 - [2007] [Innovation in Indie Games](https://www.youtube.com/watch?v=PR-ZtrOGHiY): Kyle Gabler, Jenova Chen, Jon Mak, Jon Blow (Panel)
 
