@@ -25,6 +25,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [2013] [Obsessive-Compulsive Development: Retro/Grade Postmortem](http://www.gdcvault.com/play/1017963/): Matt Gilgenbach (24 Caret Games)
 - [2013] [The Western Games That Conquered China](http://gdcvault.com/play/1017999/): Henry Fong (Yodo1)
 - [2013] [Designing Journey](http://www.gdcvault.com/play/1017700/): Jenova Chen (thatgamecompany)
+- [2013] [AI Postmortems: Assassin's Creed III, XCOM: Enemy Unknown, and Warframe](http://www.gdcvault.com/play/1018058/): Daniel Brewer, Alex Cheng, Richard Dumas, Aleissia Laidacker (Panel)
 - [2012] [A Theory of Fun 10 Years Later](http://www.gdcvault.com/play/1016632/): Raph Koster (Playdom)
 - [2012] [Attention, Not Immersion: Making Your Games Better with Psychology and Playtesting, the Uncharted Way](http://www.gdcvault.com/play/1015745/): Richard Lemarchand (Naughty Dog)
 - [2012] [Classic Game Postmortem: Harvest Moon](http://www.gdcvault.com/play/1015842/): Yasuhiro Wada (Toy Box, Inc.)
