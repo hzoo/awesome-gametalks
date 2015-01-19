@@ -48,6 +48,7 @@
 - [2014] [The Art of The Witness](http://gdcvault.com/play/1020552/): Luis Antonio (Thekla Inc)
 - [2014] [The Dark Sorcerer and Beyond: Shooting, Directing and Filming Virtual Actors](http://gdcvault.com/play/1019347/): David Cage (Quantic Dream)
 - [2014] [The Right Side of the Ocean: EA_Spouse Then and Now (Presented by IGDA)](http://gdcvault.com/play/1017824/): Erin Hoffman (Philomath Games)
+- [2014] [There and Dad Again - The Octodad: Dadliest Catch Postmortem](http://www.gdcvault.com/play/1021471/): John Murphy, Phil Tibitoski (Young Horses)
 - [2014] [This Time It's Different: Treasures and Traps in the Next Gen Transition](http://gdcvault.com/play/1019330/): Don Daglow (Daglow Entertainment LLC)
 - [2014] [Using YouTube to Market Your Indie Game](http://gdcvault.com/play/1020499/): Ryan Letourneau (Independent)
 
