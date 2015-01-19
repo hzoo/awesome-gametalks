@@ -42,6 +42,7 @@
 - [2014] [Level Design in a Day: Decisions That Matter - Meaningful Choice in Game and Level Design](http://gdcvault.com/play/1020570/): Matthias Worch (2K Games)
 - [2014] [Puzzle and Dragons Postmortem](http://gdcvault.com/play/1020817/): Kazuki Morishita (GungHo)
 - [2014] [SCALE and the Ethics of Kickstarter](http://gdcvault.com/play/1020613/): Steve Swink (CubeHeart Games)
+- [2014] [Ten Weeks, Three Guys, One Shot: Taking ADR1FT from Concept to Publishing Deal](http://www.gdcvault.com/play/1021426/): Omar Aziz, Hogarth de la Plante, Adam Orth (Three One Zero)
 - [2014] [The Art of Child of Light](http://gdcvault.com/play/1020561/): Patrick Plourde (Ubisoft Montreal)
 - [2014] [The Art of Making Guacamelee! - From Folklore to Finish](http://gdcvault.com/play/1020419/): Augusto Quijano (Drinkbox Studios)
 - [2014] [The Art of The Witness](http://gdcvault.com/play/1020552/): Luis Antonio (Thekla Inc)
