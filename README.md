@@ -63,7 +63,6 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [2011, Games for Change] [Make Games, Not War](http://vimeo.com/25681002): Jesse Schell (Schell Games)
 - [2011, Berkeley] [Programming Aesthetics Learned From Making Independent Games](https://www.youtube.com/watch?v=JjDsP5n2kSM): Jonathan Blow (Number None, Inc.)
 - [2011, IndieCade] [Designing the Universe](https://www.youtube.com/watch?v=OGSeLSmOALU): Jonathan Blow, Marc Ten Boch
-- [2010, DICE] [Design Outside the Box](http://www.g4tv.com/videos/44277/dice-2010-design-outside-the-box-presentation/): Jesse Schell (Schell Games)
 - [2010, Rice Univerisity] [Video Games and the Human Condition](https://www.youtube.com/watch?v=SqFu5O-oPmU): Jonathan Blow (Number None, Inc.)
 - [2008, MIGS] [Fundamental Conflicts in Contemporary Game Design](https://www.youtube.com/watch?v=mGTV8qLbBWE): Jonathan Blow (Number None, Inc.)
 - [2008, Google Tech Talks] [Designing a Pandemic: Lessons Learned](https://www.youtube.com/watch?v=cdTVcFo2EQw): Matt Leacock
@@ -87,6 +86,10 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [2013, PRACTICE] [Vimeo](http://vimeo.com/album/2869597)
 - [2012 - Now, DigiPen Game Engine Architecture] [Youtube](https://www.youtube.com/user/GameEngineArchitects/videos) 
 - [2012 - Now, NYU Poly Game Lab] [Youtube](https://www.youtube.com/user/POLYGAMELAB/videos)
+- [2012, DICE] [dicesummit](http://www.dicesummit.org/video_gallery/video_gallery_2012.asp)
+- [2011, DICE] [dicesummit](http://www.dicesummit.org/video_gallery/video_gallery_2011.asp)
+- [2010, DICE] [dicesummit](http://www.dicesummit.org/video_gallery/video_gallery_2010.asp)
+  - [2010, DICE] [Design Outside the Box](http://www.g4tv.com/videos/44277/dice-2010-design-outside-the-box-presentation/): Jesse Schell (Schell Games) 
 - [2007, UT, Warren Spector Lectures] [Youtube](https://www.youtube.com/playlist?list=PLC4AF467F9391D767)
 
 ## Lists
