@@ -53,6 +53,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [2013, Game Connection Europe] [Great Level Design and the Artistic Expression of Mathematics](https://www.youtube.com/watch?v=BIlr7R7UAfc): Hamish Todd
 - [2013, Unite Nordic] [Sir, You Are Being Proceudrally Generated](https://www.youtube.com/watch?v=GYYuhuarTA0): Tom Betts, James Carey (Big Robot)
 - [2013, INDIGO] [The Art of Screenshake](https://www.youtube.com/watch?v=AJdEqssNZ-U): Jan Willem Nijman (Vlambeer)
+- [2013, IGDA Seattle] [Game Design Tools (I Wish I learned About Sooner)](https://www.youtube.com/watch?v=qwPe3OHR04c): Daniel Cook (Spry Fox)
 - [2012, NY Film Academy] [Functional Theory for Game Design](https://www.youtube.com/watch?v=RzhdkYws_60): Keith Burgun (Dinofarm Games)
 - [2012, Eurogamer Expo] [How to Give Yourself a Job in the Games Industry](https://www.youtube.com/watch?v=tdwzvdZFxVM): Chet Faliszek (Valve)
 - [2012 - Nordic Game Indie Night] [Juice It Or Lose It](https://www.youtube.com/watch?v=Fy0aCDmgnxg): Martin Jonasson, Petri Purho (Indie)
