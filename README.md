@@ -57,6 +57,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [2012, Eurogamer Expo] [How to Give Yourself a Job in the Games Industry](https://www.youtube.com/watch?v=tdwzvdZFxVM): Chet Faliszek (Valve)
 - [2012 - Nordic Game Indie Night] [Juice It Or Lose It](https://www.youtube.com/watch?v=Fy0aCDmgnxg): Martin Jonasson, Petri Purho (Indie)
 - [2012, Indie Connect] [Sensible Nonsense](https://www.youtube.com/watch?v=vk94HoI_tCo): Rami Ismail, Jan Willem Nijman (Vlambeer)
+- [2012, George Mason University] [Lecture Series](https://www.youtube.com/watch?v=CrfdNJDVpR4): Todd Howard (Bethesda)
 - [2011, NYU Game Center] [Lecture Series: Portal 2](http://vimeo.com/23534126): Erik Wolpaw (Valve)
 - [2011, Google Tech Talks] [Getting Gamification Right](https://www.youtube.com/watch?v=7ZGCPap7GkY): Sebastian Deterding (PLAIT Lab)
 - [2011, Games for Change] [G4LI Keynote](http://vimeo.com/25780504): Gabe Newell (Valve)
