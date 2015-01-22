@@ -51,6 +51,13 @@
 - [2014] [There and Dad Again - The Octodad: Dadliest Catch Postmortem](http://www.gdcvault.com/play/1021471/): John Murphy, Phil Tibitoski (Young Horses)
 - [2014] [This Time It's Different: Treasures and Traps in the Next Gen Transition](http://gdcvault.com/play/1019330/): Don Daglow (Daglow Entertainment LLC)
 - [2014] [Using YouTube to Market Your Indie Game](http://gdcvault.com/play/1020499/): Ryan Letourneau (Independent)
+- [2014] [Narrative Legos](http://gdcvault.com/play/1020434/): Ken Levine (Irrational Games)
+- [2014] [Antichamber: Three Years of Hardcore Iteration](http://gdcvault.com/play/1020586/): Alexander Bruce
+- [2014] [A Study in Transparency: How Board Games Matter](http://gdcvault.com/play/1020408/): Soren Johnson (Mohawk Games) 
+- [2014] [Interpreting Feedback and Maintaining Your Vision](http://gdcvault.com/play/1020495/): Andy Nguyen (Pocketwatch Games)
+- [2014] [Jiro Dreams of Game Design](http://gdcvault.com/play/1020496/): Brenda Romero (UC Santa Cruz)
+- [2014] [Preserving a Sense of Discovery in the Age of Spoilers](http://vimeo.com/91436410): James Crawford (Twinbeard Studios)
+- [2014] [Animation Bootcamp: An Indie Approach to Procedural Animation](http://gdcvault.com/play/1020583/): David Rosen (Wolfire Games)
 
 ## 2013 ##
 - [2013, Europe] [Crimewatch 2.0: Redesigning EVE Online's Policing System](http://gdcvault.com/play/1020382/): Matthew Woodward (CCP Games)
@@ -144,9 +151,6 @@ Simon Carless, Mark Morris, Derek Yu, Greg Costikyan, Eric Zimmerman
 
 ## 2005 ##
 - [2005] [Heart of a Gamer](http://gdcvault.com/play/1014847/): Satoru Iwata (Nintendo Co., Ltd.)
-
-## 2004 ##
-- [2004] [Animation Bootcamp: An Indie Approach to Procedural Animation](http://gdcvault.com/play/1020583/): David Rosen (Wolfire Games)
 
 ## 2003 ##
 - [2003] [Is Your Business Model Evil? The Moral Maze of the New Games Business](http://gdcvault.com/play/1020343/): Ben Cousins (Scattered Entertainment/DeNA)
