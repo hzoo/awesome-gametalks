@@ -69,17 +69,28 @@
 - [2013] [The Sound of Grand Theft Auto V](http://gdcvault.com/play/1020587/): Alastair MacGregor (Rockstar North)
 - [2013] [The Western Games That Conquered China](http://gdcvault.com/play/1017999/): Henry Fong (Yodo1)
 - [2013] [Obsessive-Compulsive Development: Retro/Grade Postmortem](http://www.gdcvault.com/play/1017963/): Matt Gilgenbach (24 Caret Games)
+- [2013] [Designing Journey](http://www.gdcvault.com/play/1017700/): Jenova Chen (thatgamecompany)
+- [2013] [AI Postmortems: Assassin's Creed III, XCOM: Enemy Unknown, and Warframe](http://www.gdcvault.com/play/1018058/): Daniel Brewer, Alex Cheng, Richard Dumas, Aleissia Laidacker (Panel)
 
 ## 2012 ##
 - [2012] [The 5 Domains of Play: Applying Psychology's Big 5 Motivation Domains to Games](http://gdcvault.com/play/1015595/): Jason VandenBerghe (Ubisoft)
+- [2012] [A Theory of Fun 10 Years Later](http://www.gdcvault.com/play/1016632/): Raph Koster (Playdom)
+- [2012] [Attention, Not Immersion: Making Your Games Better with Psychology and Playtesting, the Uncharted Way](http://www.gdcvault.com/play/1015745/): Richard Lemarchand (Naughty Dog)
+- [2012] [Classic Game Postmortem: Harvest Moon](http://www.gdcvault.com/play/1015842/): Yasuhiro Wada (Toy Box, Inc.)
+- [2012] [Creating a Sequel to a Game That Doesn't Need One](https://www.youtube.com/watch?v=OLqk4aqpXlQ): Chet Faliszek, Erik Wolpaw (Valve) 
+- [2012] [How I Got My Mom to Play Through Plants vs. Zombies](http://www.gdcvault.com/play/1015541/): George Fan (PopCap)
 
 ## 2011 ##
 - [2011, Europe] [#1ReasonToBe](http://gdcvault.com/play/1020593/): Leigh Alexander, Deirdra Kiai, Anna Kipnis, Colleen Macklin, Laralyn McWilliams, Brenda Romero, Lauren Scott (Panel)
 - [2011] [Truth in Game Design](http://www.gdcvault.com/play/1014982/): Jonathan Blow (Number None, Inc.)
 - [2011] [Dynamics: The State of the Art](http://www.gdcvault.com/play/1014597/): Clint Hocking (LucasArts)
+- [2011] [Design in Detail: Tuning the Muzzle Velocity of the Plasma Rifle Bolt on Legendary Difficulty Across the HALO Franchise](http://www.gdcvault.com/play/1014704/): Jaime Griesemer (Bungie)
+- [2011] [Life and Death and Middle Pair: Go, Poker and the Sublime](http://gdcvault.com/play/1014383/): Frank Lantz (Zynga)
+- [2011] [The Road Ahead](https://www.youtube.com/watch?v=5fkSUQEMwV4): Cliff Bleszinski (Epic Games)
 
 ## 2010 ##
 - [2010] [Design in Detail: Changing the Time Between Shots for the Sniper Rifle from 0.5 to 0.7 Seconds for Halo 3](http://www.gdcvault.com/play/1012211/): Jaime Griesemer (Bungie)
+- [2010, Keynote] [Everything You Know is Wrong](https://www.youtube.com/watch?v=bY7aRJE-oOY): by Sid Meier (Firaxis Games)
 
 ## 2009 ##
 
