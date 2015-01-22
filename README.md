@@ -23,6 +23,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [2014] [Animation Bootcamp: An Indie Approach to Procedural Animation](http://www.gdcvault.com/play/1020583/): David Rosen (Wolfire Games)
 - [2014, Europe] [Super Time Force: Solving the Time Travel Paradox](http://gdcvault.com/play/1020766/): Kenneth Yeung (Capy Games)
 - [2014] [Enhancing Sportsmanship in Online Games](http://www.gdcvault.com/play/1020389/): Jeffrey Lin (Riot Games)
+- [2014] [The Art of The Witness](http://www.gdcvault.com/play/1020552/): Luis Antonio (Thekla Inc)
 - [2013, Europe] [#1ReasonToBe](http://gdcvault.com/play/1020902/): Annakaisa Kultima, Auriea Harvey, Brenda Romero, Zuraida Buter, Henrike aka Riker Lode, Siobhan Reddy, Leigh Alexander (Panel)
 - [2013] [Obsessive-Compulsive Development: Retro/Grade Postmortem](http://www.gdcvault.com/play/1017963/): Matt Gilgenbach (24 Caret Games)
 - [2013] [The Western Games That Conquered China](http://gdcvault.com/play/1017999/): Henry Fong (Yodo1)
