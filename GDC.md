@@ -58,6 +58,7 @@
 - [2014] [Jiro Dreams of Game Design](http://gdcvault.com/play/1020496/): Brenda Romero (UC Santa Cruz)
 - [2014] [Preserving a Sense of Discovery in the Age of Spoilers](http://vimeo.com/91436410): James Crawford (Twinbeard Studios)
 - [2014] [Animation Bootcamp: An Indie Approach to Procedural Animation](http://gdcvault.com/play/1020583/): David Rosen (Wolfire Games)
+- [2014] [Enhancing Sportsmanship in Online Games](http://www.gdcvault.com/play/1020389/): Jeffrey Lin (Riot Games)
 
 ## 2013 ##
 - [2013, Europe] [Crimewatch 2.0: Redesigning EVE Online's Policing System](http://gdcvault.com/play/1020382/): Matthew Woodward (CCP Games)
