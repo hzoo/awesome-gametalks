@@ -60,6 +60,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [2013, INDIGO] [The Art of Screenshake](https://www.youtube.com/watch?v=AJdEqssNZ-U): Jan Willem Nijman (Vlambeer)
 - [2013, IGDA Seattle] [Game Design Tools (I Wish I learned About Sooner)](https://www.youtube.com/watch?v=qwPe3OHR04c): Daniel Cook (Spry Fox)
 - [2013, Georgia Tech] [Facilitating Stories in Journey](https://www.youtube.com/watch?v=qHhetpaZBTs): John Nesky (thatgamecompany)
+- [2013, PAX East] [Mastering Game Mechanics](https://www.youtube.com/watch?v=UPU_yi9Nv3M): Brandon DeCoster, Scott Rubin (GeekNights)
 - [2012, G.A.N.G Summit] [Music Design in Games](https://www.youtube.com/watch?v=Pl86ND_c5Og): Rich Vreeland (Disasterpeace)
 - [2012, NY Film Academy] [Functional Theory for Game Design](https://www.youtube.com/watch?v=RzhdkYws_60): Keith Burgun (Dinofarm Games)
 - [2012, Eurogamer Expo] [How to Give Yourself a Job in the Games Industry](https://www.youtube.com/watch?v=tdwzvdZFxVM): Chet Faliszek (Valve)
