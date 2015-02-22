@@ -11,6 +11,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [Lists](#lists)
 
 ## GDC Talks
+- [2014] [Level Design in a Day: Decisions That Matter - Meaningful Choice in Game and Level Design](http://www.gdcvault.com/play/1020570/): Matthias Worch (2K Games)
 - [2014] [There and Dad Again - The Octodad: Dadliest Catch Postmortem](http://www.gdcvault.com/play/1021471/): John Murphy, Phil Tibitoski (Young Horses)
 - [2014] [TwitchPlayedPokemon: An Analysis of the Experimental Interactive Phenomenon](http://gdcvault.com/play/1021438/): Alex Leavitt (USC)
 - [2014] [Narrative Legos](http://www.gdcvault.com/play/1020434/): Ken Levine (Irrational Games)
