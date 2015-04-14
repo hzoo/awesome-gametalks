@@ -52,6 +52,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [2009] [Helping Your Players Feel Smart: Puzzles as User Interface](http://www.gdcvault.com/play/1333/): Randy Smith (Tiger Style)
 - [2007] [Indie Prototyping](https://www.youtube.com/watch?v=ISutk1mauPM): Jonathan Blow (Number None, Inc.)
 - [2007] [Innovation in Indie Games](https://www.youtube.com/watch?v=PR-ZtrOGHiY): Kyle Gabler, Jenova Chen, Jon Mak, Jon Blow (Panel)
+- [2000] [It's Great to be Back! Fast Code, Game Programming, and Other Thoughts from 20 (Minus Two) Years in the Trenches](http://www.gdcvault.com/play/1016641/): Michael Abrash (Rad Game Tools)
 
 ## Other Talks
 - [2014, Indievelopment] [Attempting Deep Work, Surviving Long Projects](http://vimeo.com/94259578): Jonathan Blow (Number None, Inc.)
