@@ -56,6 +56,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [2000] [It's Great to be Back! Fast Code, Game Programming, and Other Thoughts from 20 (Minus Two) Years in the Trenches](http://www.gdcvault.com/play/1016641/): Michael Abrash (Rad Game Tools)
 
 ## Other Talks
+- [2014, PRACTICE 2014] [On Trying to Make Idea-Rich Games](https://vimeo.com/125149688): Jonathan Blow (Number None, Inc.)
 - [2014, Indievelopment] [Attempting Deep Work, Surviving Long Projects](http://vimeo.com/94259578): Jonathan Blow (Number None, Inc.)
 - [2014, University of Virginia] [A Fireside Chat with Rich Hilleman](https://www.youtube.com/watch?v=LZu6229ZcT0): Rich Hilleman (EA)
 - [2014, Tallinn University] [Innovation in Game Design](https://www.youtube.com/watch?v=4DBq2dHw4uM): Richard Bartle
