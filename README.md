@@ -2,6 +2,8 @@
 
 Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https://github.com/sindresorhus/awesome) stuff!
 
+> GDC has a channel now: https://www.youtube.com/c/gdconf
+
 ## If you want just a list of free GDC talks: [GDC](GDC.md)
 
 ### Table of Contents
