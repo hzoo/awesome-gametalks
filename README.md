@@ -11,6 +11,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [Lists](#lists)
 
 ## GDC Talks
+- [2015] [Classic Game Postmortem: Loom](http://gdcvault.com/play/1021862/): Brian Moriarty (WPI)
 - [2015] [Hearthstone: How to Create an Immersive User Interface](http://www.gdcvault.com/play/1022036/): Derek Sakamoto (Blizzard)
 - [2015] [Scroll Back: The Theory and Practice of Cameras in Side-Scrollers](http://www.gdcvault.com/play/1022243/): Itay Keren (Untame)
 - [2015] [A Live Art Demonstration of Creating Worlds through Design Thinking](http://gdcvault.com/play/1021752/): Feng Zhu (Feng Zhu Design)
