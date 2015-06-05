@@ -138,7 +138,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [2012 - Now, NYU Poly Game Lab] [POLYGAMELAB Official Channel](https://www.youtube.com/user/POLYGAMELAB/videos) 
 - [2012, DICE] [dicesummit](http://www.dicesummit.org/video_gallery/video_gallery_2012.asp) 
 - [2011, DICE] [dicesummit](http://www.dicesummit.org/video_gallery/video_gallery_2011.asp) 
-[2010, DICE] [dicesummit](http://www.dicesummit.org/video_gallery/video_gallery_2010.asp)
+- [2010, DICE] [dicesummit](http://www.dicesummit.org/video_gallery/video_gallery_2010.asp)
 
 ## Lists
 - https://twitter.com/GameDevTalks/
@@ -160,4 +160,4 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 
 ## Talks
 
-[Episode 93, Collective Podcast] [Discussing Monument Valley](http://www.thecollectivepodcast.com/#/ken-wong/): Ken Wong (UsTwo Games)
+- [Episode 93, Collective Podcast] [Discussing Monument Valley](http://www.thecollectivepodcast.com/#/ken-wong/): Ken Wong (UsTwo Games)
