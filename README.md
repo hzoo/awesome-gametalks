@@ -8,6 +8,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 
 ### Table of Contents
 - [GDC Talks](#gdc-talks)
+- [TED Talks](#ted-talks)
 - [Other Talks](#other-talks)
 - [Playlist of Conferences / Lectures](#conferences)
 - [Lists](#lists)
@@ -66,22 +67,22 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 
 [http://www.ted.com/topics/gaming](http://www.ted.com/topics/gaming)
 
-- [2015, TED]  [Physical therapy is boring — play a game instead](http://www.ted.com/talks/cosmin_mihaiu_physical_therapy_is_boring_play_a_game_instead): Cosmin Mihaiu (Indie) 
-- [2015, TEDxTokyo] [Play this game to come up with original ideas](http://www.ted.com/talks/shimpei_takahashi_play_this_game_to_come_up_with_original_ideas): Shimpei Takahashi 
-- [2013, TEDGlobal] [Massively multi-player… thumb-wrestling?](http://www.ted.com/talks/jane_mcgonigal_massively_multi_player_thumb_wrestling): Jane McGonigal (Institute for the Future) 
-- [2012, TEDGlobal] [The Game That Can Give You 10 Extra Years Of Life](https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life?language=en): Jane McGonigal (Indie) 
-- [2012, TEDxCHUV] [Your brain on video games](http://www.ted.com/talks/daphne_bavelier_your_brain_on_video_games): Daphne Bavelier (University of Geneva) 
-- [2012, TEDxPhoenix] [Gaming for understanding](http://www.ted.com/talks/brenda_brathwaite_gaming_for_understanding): Brenda Romero (Loot Drop) 
-- [2011, TEDxKids@Brussels] [How games make kids smarter: ](http://www.ted.com/talks/gabe_zichermann_how_games_make_kids_smarter)Gabe Zichermann (Author) 
-- [2010, TEDGlobal] [7 ways games reward the brain](http://www.ted.com/talks/tom_chatfield_7_ways_games_reward_the_brain): Tom Chatfield  
-- [2010, TEDxBoston] [The game layer on top of the world](http://www.ted.com/talks/seth_priebatsch_the_game_layer_on_top_of_the_world): Seth Priebatsch  
-- [2010, TEDGlobal] [Meet Milo, the virtual boy](http://www.ted.com/talks/peter_molyneux_demos_milo_the_virtual_boy): Peter Molyneux  
+- [2015, TED]  [Physical Therapy Is Boring — Play A Game Instead](http://www.ted.com/talks/cosmin_mihaiu_physical_therapy_is_boring_play_a_game_instead): Cosmin Mihaiu
+- [2015, TEDxTokyo] [Play This Game To Come Up With Original ideas](http://www.ted.com/talks/shimpei_takahashi_play_this_game_to_come_up_with_original_ideas): Shimpei Takahashi 
+- [2013, TEDGlobal] [Massively Multi-Player… Thumb-Wrestling?](http://www.ted.com/talks/jane_mcgonigal_massively_multi_player_thumb_wrestling): Jane McGonigal (Institute for the Future) 
+- [2012, TEDGlobal] [The Game That Can Give You 10 Extra Years Of Life](https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life?language=en): Jane McGonigal 
+- [2012, TEDxCHUV] [Your Brain On Video Games](http://www.ted.com/talks/daphne_bavelier_your_brain_on_video_games): Daphne Bavelier (University of Geneva) 
+- [2012, TEDxPhoenix] [Gaming For Understanding](http://www.ted.com/talks/brenda_brathwaite_gaming_for_understanding): Brenda Romero (Loot Drop) 
+- [2011, TEDxKids@Brussels] [How Games Make Kids Smarter: ](http://www.ted.com/talks/gabe_zichermann_how_games_make_kids_smarter)Gabe Zichermann (Author) 
+- [2010, TEDGlobal] [7 Ways Games Reward The Brain](http://www.ted.com/talks/tom_chatfield_7_ways_games_reward_the_brain): Tom Chatfield  
+- [2010, TEDxBoston] [The Game Layer On Top Of The World](http://www.ted.com/talks/seth_priebatsch_the_game_layer_on_top_of_the_world): Seth Priebatsch  
+- [2010, TEDGlobal] [Meet Milo, The Virtual Boy](http://www.ted.com/talks/peter_molyneux_demos_milo_the_virtual_boy): Peter Molyneux  
 - [2010, TED] [Gaming Can Make A Better World](http://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world?language=en): Jane McGonigal (Institute for the Future) 
-- [2009, EG] [The art of puzzles](http://www.ted.com/talks/scott_kim_takes_apart_the_art_of_puzzles) Scott Kim (Discover Magazine) 
-- [2009, Serious Play] [Play is more than just fun](http://www.ted.com/talks/stuart_brown_says_play_is_more_than_fun_it_s_vital): Stuart Brown (National Institute for Play) 
-- [1998, TED] [Games for girls](http://www.ted.com/talks/brenda_laurel_on_making_games_for_girls): Brenda Laurel (California College of the Arts) 
-- [2007, TED] [Spore, birth of a game](http://www.ted.com/talks/will_wright_makes_toys_that_make_worlds):Will Wright (Maxis) 
-- [2006, TED] [Are games better than life?](http://www.ted.com/talks/david_perry_on_videogames?language=en): David Perry (Gaikai)
+- [2009, EG] [The Art of Puzzles](http://www.ted.com/talks/scott_kim_takes_apart_the_art_of_puzzles) Scott Kim (Discover Magazine) 
+- [2009, Serious Play] [Play is More than Just Fun](http://www.ted.com/talks/stuart_brown_says_play_is_more_than_fun_it_s_vital): Stuart Brown (National Institute for Play) 
+- [1998, TED] [Games for Girls](http://www.ted.com/talks/brenda_laurel_on_making_games_for_girls): Brenda Laurel (California College of the Arts) 
+- [2007, TED] [Spore, Birth of a Game](http://www.ted.com/talks/will_wright_makes_toys_that_make_worlds):Will Wright (Maxis) 
+- [2006, TED] [Are Games Better than Liife?](http://www.ted.com/talks/david_perry_on_videogames?language=en): David Perry (Gaikai)
 
 ## Other Talks
 - [2015, University of Texas] [John D. Carmack at UT Dallas](https://vimeo.com/126275510): John D. Carmack (Oculus)
@@ -146,13 +147,13 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 
 ## Dedicated Podcasts
 
-- [A life well wasted](http://alifewellwasted.com/): Robert Ashley (Indie) 
+- [A life well wasted](http://alifewellwasted.com/): Robert Ashley 
 - [Another Castle](http://gamedesignadvance.com/?page_id=1616): Charles J Pratt (Game Design Advance) 
-- [Brainy Gamer](http://www.brainygamer.com/the_brainy_gamer/podcast/): Michael Abbott  (Indie)  
-- [Game Developers Radio](http://www.gamedevradio.com/): [Joseph Burchett](http://www.linkedin.com/pub/joseph-burchett/10/677/50b) (Indie) 
+- [Brainy Gamer](http://www.brainygamer.com/the_brainy_gamer/podcast/): Michael Abbott  
+- [Game Developers Radio](http://www.gamedevradio.com/): [Joseph Burchett](http://www.linkedin.com/pub/joseph-burchett/10/677/50b) 
 - [The Game Design Round Table](http://thegamedesignroundtable.com): Jon Shafer (Firaxis), Dirk Knemeyer (The New Science, Tomorrow). 
 - [IndieGamePod](http://www.indiegamepod.com/) Interviews with developers about their games. 
-- [Infinite Ammo Podcast](http://infiniteammo.ca/podcast): Alec Holowka (Indie) 
+- [Infinite Ammo Podcast](http://infiniteammo.ca/podcast): Alec Holowka 
 - [Ludology](http://ludology.libsyn.com/): Ryan Sturm, Geoff Engelstein 
 - [Podclass](https://www.digipen.edu/news-and-events/podclass-the-digipen-podcast/): (Digipen)  
 
