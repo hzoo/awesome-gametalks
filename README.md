@@ -10,6 +10,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [GDC Talks](#gdc-talks)
 - [TED Talks](#ted-talks)
 - [Other Talks](#other-talks)
+- [Podcasts](#podcasts)
 - [Playlist of Conferences / Lectures](#conferences)
 - [Lists](#lists)
 
