@@ -1,5 +1,9 @@
 # Awesome Game Talks
 
+> [2005] [Heart of a Gamer](http://gdcvault.com/play/1014847/): Satoru Iwata (Nintendo)
+
+> On my business card, I am a corporate president. In my mind, I am a game developer. But in my heart, I am a gamer.
+
 Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https://github.com/sindresorhus/awesome) stuff!
 
 > GDC has a channel now: https://www.youtube.com/c/gdconf
