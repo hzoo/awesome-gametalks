@@ -91,6 +91,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 
 ## Other Talks
 - [2015, University of Texas] [John D. Carmack at UT Dallas](https://vimeo.com/126275510): John D. Carmack (Oculus)
+- [2014, Nordic Game] [Making of Monument Valley in Unity](https://www.youtube.com/watch?v=mCCC9hQm6MM) Peter Pashley (ustwo)
 - [2014, PRACTICE 2014] [On Trying to Make Idea-Rich Games](https://vimeo.com/125149688): Jonathan Blow (Number None, Inc.)
 - [2014, Indievelopment] [Attempting Deep Work, Surviving Long Projects](http://vimeo.com/94259578): Jonathan Blow (Number None, Inc.)
 - [2014, University of Virginia] [A Fireside Chat with Rich Hilleman](https://www.youtube.com/watch?v=LZu6229ZcT0): Rich Hilleman (EA)
