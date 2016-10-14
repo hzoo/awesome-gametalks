@@ -91,6 +91,7 @@ Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https:/
 - [2006, TED] [Are Games Better than Liife?](http://www.ted.com/talks/david_perry_on_videogames?language=en): David Perry (Gaikai)
 
 ## Other Talks
+- [2015, DevGAMM Conference] [Mattias Dittrich (Ditto) - Make It Wiggle (or How to Make Cool Art with No Talent)](https://www.youtube.com/watch?v=7-fUvFkPngI): Mattias Dittrich
 - [2015, University of Texas] [John D. Carmack at UT Dallas](https://vimeo.com/126275510): John D. Carmack (Oculus)
 - [2014, Nordic Game] [Making of Monument Valley in Unity](https://www.youtube.com/watch?v=mCCC9hQm6MM): Peter Pashley (ustwo)
 - [2014, PRACTICE 2014] [On Trying to Make Idea-Rich Games](https://vimeo.com/125149688): Jonathan Blow (Number None, Inc.)
